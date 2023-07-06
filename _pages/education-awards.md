@@ -16,7 +16,7 @@ redirect_from:
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **CGPA:  3.934** [*out of 4.00*]
 * **1<sup>st</sup>** in Merit Position
-* **Thesis title:** ["Jamdani Motif Generation using Conditional Generative Adversarial Networks"](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf) 
+* **Thesis title:** ["Jamdani Motif Generation using Conditional Generative Adversarial Networks"](https://shawon-tanvir.github.io/files/Thesis_Defence_Jamdani_Motif_Generation.pdf) 
 * **Supervisor:** [Mohammd Imrul Jubair](https://scholar.google.com/citations?user=H4-yZ3wAAAAJ&hl=en&oi=sra), Research Assistant, University of Colorado Boulder and Assistant Professor (On leave), Department of CSE, AUST
 
 <br /> 
