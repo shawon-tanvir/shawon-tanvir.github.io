@@ -15,18 +15,15 @@ author_profile: true
 * Paraphrasing of Bangla Text.
 * Topic Modelling.
 
-## Undergraduate Course Projects [2015-2020]
+## Undergraduate Course Projects [2016-2020]
 ----------------
-* Benchmarking Different Versions of Bert (*Python, Tensorflow*)
-* Sentiment Classification (*Pyton, Scikit Learn, Tensorflow*)
-* Image Caption Generator (*Python, Tensorflow*)
-* A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (*WebGL, C++*)
-* Food Finder Website (*Php, MySQL*).
-* Bluetooth Controlled Matrix Signboard (*Arduino*).
-* IELTS Exam (*Servlet, Eclipse*). 
-* Online Computer Shop (*C#, MySQL*).
-* Magnificient Cox's Bazaar (*Android Studio*).
-* Digital Logic Design Simulator (*Language: Java in NeatBeans IDE*).
-* Mario Hopper (*Language: C and iGraphics.h*).
+
+* Movie Ticket Selling (*Android Studio*)
+* Online Food Delivery (*Android Studio*)
+* School Website (*ASP.NET, MVC 5*)
+* Student Management System (*Language: Java in NeatBeans IDE*)
+* Shop Management System (*Language: Java in NeatBeans IDE*)
+* School Website (*Php, MySQL*)
+* Arduino Based Home Automation System (*C++*)
 
 __________________________________________________
