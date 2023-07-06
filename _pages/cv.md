@@ -26,12 +26,12 @@ Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
 <i style='color:#000099;'>**February 2021 - June 2021**</i>
 
-[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on August 9, 2022*</ins>]
+[Download Full CV]() [<ins>*Last Updated on August 9, 2022*</ins>]
 
 ## Contact Me
 -------------
 
-**Email:** shawontanvir95 [at] gmail [dot] com <br /> 
+**Email:** shawontanvir95@gmail.com <br /> 
  <br /> 
 **Website:** [https://shawon-tanvir.github.io](https://shawon-tanvir.github.io/) <br />
 
