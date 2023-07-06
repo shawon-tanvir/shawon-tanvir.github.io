@@ -12,30 +12,30 @@ redirect_from:
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**Fall 2015 - Spring 2019**</i>
+<i style='color:#000099;'>**Spring 2016 - Fall 2019**</i>
 
 ## Employment 
 -------------
 <b>Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**December 2020 - Present**</i><br/>
+<i style='color:#000099;'>**June 2021 - Present**</i><br/>
 
-<b>Contractual Lecturer</b><br />
+<b>Adjunct Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**February 2020 - December 2020**</i>
+<i style='color:#000099;'>**February 2021 - June 2021**</i>
 
 [Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on August 9, 2022*</ins>]
 
 ## Contact Me
 -------------
 
-**Email:** farzadahmed6 [at] gmail [dot] com <br /> 
+**Email:** shawontanvir95 [at] gmail [dot] com <br /> 
  <br /> 
-**Website:** [https://farzad-1996.github.io](https://farzad-1996.github.io/) <br />
+**Website:** [https://farzad-1996.github.io](https://shawon-tanvir.github.io/) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en), [Github](https://github.com/farzad-1996).
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao), [Github](https://github.com/shawon-tanvir).
 
 
 **Address:**
