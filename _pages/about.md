@@ -15,7 +15,7 @@ Greetings!!!
 I am Md. Tanvir Rouf Shawon, a Lecturer, at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh in the <a href="https://www.aust.edu/cse">Department of CSE</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Machine Learning Applications, Natural Language Processing, Computer Vision, and Image Processing.<br /><br /></div>
    
 
-**For additional information, please see the [CV](https://Farzad-1996.github.io/cv/) and [publications](https://Farzad-1996.github.io/publications/).**
+**For additional information, please see the [CV](https://shawon-tanvir.github.io/cv/) and [publications](https://shawon-tanvir.github.io/publications/).**
 
 -----------
 
