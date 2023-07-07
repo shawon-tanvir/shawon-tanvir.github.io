@@ -8,12 +8,13 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-### [2020 - *Current*]
+### [2022 - *Current*]
 -----------
-* Image Captioning.
+* A benchmark Dataset for Bengali Fake Review Detection.
+* Detection of Online Grooming/Predators.
+* Brain Tumor Detection.
 * Explainable Artificial Intelligence for Text and Image.
-* Paraphrasing of Bangla Text.
-* Topic Modelling.
+* Medical Image Classification using Federated Learning and Generative Adversarial Networks/Semi-Supervised Learning.
 
 ## Undergraduate Course Projects [2016-2020]
 ----------------
