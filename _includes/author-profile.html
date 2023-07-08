@@ -67,6 +67,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {% if author.scopus %}
+        <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}"><i class="fab fa-pushed" aria-hidden="true"></i> Scopus</a></li>
+      {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fab -fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
