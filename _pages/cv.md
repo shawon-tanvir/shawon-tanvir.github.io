@@ -15,7 +15,9 @@ redirect_from:
 ## Contact Me
 -------------
 
-**Email:** shawontanvir95@gmail.com or shawontanvir.cse@aust.edu<br /> 
+**Email:** 
+shawontanvir95@gmail.com [Personal]
+shawontanvir.cse@aust.edu [Official}<br /> 
  <br /> 
 **Website:** [https://shawon-tanvir.github.io](https://shawon-tanvir.github.io/) <br />
 
