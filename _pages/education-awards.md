@@ -26,7 +26,7 @@ Duration: 2013 - 2015 <br/>
 </span>
 
 <span style="font-family:Georgia; color:black;">
-<b>Nobin Chandra High School</a></b><br/>
+<b>Nobin Chandra High School</b><br/>
 Secondary School Certificate (SSC) <br/>
 GPA: <b>5.00/5.00</b> scale <br/>
 Duration: 2011 - 2013 <br/>
