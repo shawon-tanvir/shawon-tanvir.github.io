@@ -16,7 +16,7 @@ redirect_from:
 -------------
 
 **Email:** 
-shawontanvir95@gmail.com [Personal]
+shawontanvir95@gmail.com [Personal]<br />
 shawontanvir.cse@aust.edu [Official}<br /> 
  <br /> 
 **Website:** [https://shawon-tanvir.github.io](https://shawon-tanvir.github.io/) <br />
