@@ -6,16 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-## Education 
--------------
-<b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology<br />
-Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**Spring 2016 - Fall 2019**</i>
+[Download Full CV]("../files/CV/CV-of-Shibli.pdf") [<ins>*Last Updated on August 9, 2022*</ins>]
+<iframe src="/files/Shawon_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
-[Download Full CV]() [<ins>*Last Updated on August 9, 2022*</ins>]
 
 ## Contact Me
 -------------
