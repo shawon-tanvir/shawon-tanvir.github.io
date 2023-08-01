@@ -20,7 +20,7 @@ author_profile: true
 * Bengali Fake Reviews: A Benchmark Dataset and Detection System [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 * Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance [Multimedia Tools and Applications](https://www.springer.com/journal/11042).
 * Evaluation of Bengali Handwritten Mathematical Equation using Convolutional Neural Network [International Journal on Document Analysis and Recognition (IJDAR)](https://www.springer.com/journal/10032) [researchsquare](https://www.researchsquare.com/article/rs-2553612/v1)
-* * Investigating the Effectiveness of Interpretable Cost-Sensitive Neural Network for Pneumonia Detection Contemplating Data Imbalance [SN Computer Science](https://www.springer.com/journal/42979) [researchsquare](https://www.researchsquare.com/article/rs-3047442/v1).
+* Investigating the Effectiveness of Interpretable Cost-Sensitive Neural Network for Pneumonia Detection Contemplating Data Imbalance [SN Computer Science](https://www.springer.com/journal/42979) [researchsquare](https://www.researchsquare.com/article/rs-3047442/v1).
 
 ## Undergraduate Course Projects [2016-2020]
 ----------------
