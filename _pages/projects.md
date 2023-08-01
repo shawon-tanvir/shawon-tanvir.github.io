@@ -22,5 +22,15 @@ author_profile: true
 * Evaluation of Bengali Handwritten Mathematical Equation using Convolutional Neural Network [[International Journal on Document Analysis and Recognition (IJDAR)](https://www.springer.com/journal/10032) [researchsquare](https://www.researchsquare.com/article/rs-2553612/v1)]
 * Investigating the Effectiveness of Interpretable Cost-Sensitive Neural Network for Pneumonia Detection Contemplating Data Imbalance [[SN Computer Science](https://www.springer.com/journal/42979) [researchsquare](https://www.researchsquare.com/article/rs-3047442/v1)]
 
+## Undergraduate Course Projects [2016-2020]
+----------------
+
+* Movie Ticket Selling (*Android Studio*)
+* Online Food Delivery (*Android Studio*)
+* School Website (*ASP.NET, MVC 5*)
+* Student Management System (*Language: Java in NeatBeans IDE*)
+* Shop Management System (*Language: Java in NeatBeans IDE*)
+* School Website (*Php, MySQL*)
+* Arduino Based Home Automation System (*C++*)
 
 __________________________________________________
