@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+## Contact Me
+-------------
+
 [Download Full CV]("../files/CV/CV-of-Shibli.pdf") [<ins>*Last Updated on August 9, 2022*</ins>]
 <iframe src="/files/Shawon_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
