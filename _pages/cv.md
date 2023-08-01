@@ -14,17 +14,6 @@ Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
 <i style='color:#000099;'>**Spring 2016 - Fall 2019**</i>
 
-## Employment 
--------------
-<b>Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**June 2021 - Present**</i><br/>
-
-<b>Adjunct Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**February 2021 - June 2021**</i>
 
 [Download Full CV]() [<ins>*Last Updated on August 9, 2022*</ins>]
 
