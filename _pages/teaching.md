@@ -10,12 +10,12 @@ author_profile: true
 
 
 
-* Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
+Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
 Lecturer<br />
 <i style='color:#000099;'>June 2021 - Present</i> <br />
 Department of Computer Science and Engineering<br />
 
-## Courses
+<b>Courses</b>
 <details>
 <summary>CSE 1108: Introduction to Computer System</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Fall 2022</ins></font></span><br>
@@ -142,13 +142,13 @@ genetic combined approaches to computing applications.
 </details>
 
 
-* Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
+Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
 Part-Time Faculty<br />
 <i style='color:#000099;'>February 2021 - June 2021</i> <br />
 Department of Computer Science and Engineering<br />
 
 
-## Courses
+<b>Courses</b>
 <details>
 <summary>CSE 2214: Assembly Language Programming</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Spring 2020</ins></font></span><br>
