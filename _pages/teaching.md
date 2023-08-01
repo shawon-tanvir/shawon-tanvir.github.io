@@ -10,10 +10,20 @@ author_profile: true
 
 
 
-Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
+* Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
 Lecturer<br />
-<i style='color:#000099;'>June 2021 - Present</i> <br />
 Department of Computer Science and Engineering<br />
+<i style='color:#000099;'>June 2021 - Present</i> <br />
+
+* Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
+Part-Time Faculty<br />
+Department of Computer Science and Engineering<br />
+<i style='color:#000099;'>February 2021 - June 2021</i> <br />
+
+* Directorate of Secondary and Higher Education, Bangladesh.<br />
+Facilitator<br />
+Training on Python and Artificial Intelligence<br />
+<i style='color:#000099;'>May 2022 - Present</i> <br />
 
 <b>Courses</b>
 <details>
@@ -141,14 +151,6 @@ genetic combined approaches to computing applications.
 </span><br>
 </details>
 
-
-Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
-Part-Time Faculty<br />
-<i style='color:#000099;'>February 2021 - June 2021</i> <br />
-Department of Computer Science and Engineering<br />
-
-
-<b>Courses</b>
 <details>
 <summary>CSE 2214: Assembly Language Programming</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Spring 2020</ins></font></span><br>
