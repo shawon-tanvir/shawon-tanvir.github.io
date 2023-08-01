@@ -22,7 +22,7 @@ I am Md. Tanvir Rouf Shawon, a Lecturer, at <a href="http://aust.edu/">Ahsanulla
 
 
 # Activities 
-* <span style="color:Blue"> [July 04, 2023] </span> - 4 paper accepted at [ICNLP 2023](https://confbim.com/).  
+* <span style="color:Blue"> [July 04, 2023] </span> - 4 paper accepted at [BIM 2023](https://confbim.com/).  
 * <span style="color:Blue"> [March 25, 2023] </span> - Presented a paper at [ICNLP 2023](http://www.icnlp.net/).  
 * <span style="color:Blue"> [January 13, 2023] </span> - One paper got accepted at [ICNLP 2023](http://www.icnlp.net/).  
 * <span style="color:Blue"> [October 7, 2022] </span> - One article got accepted at [Iran Journal of Computer Science](https://www.springer.com/journal/42044) Journal.
