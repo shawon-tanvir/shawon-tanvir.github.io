@@ -10,9 +10,9 @@ author_profile: true
 * Detection of Online Grooming/Predatory chats.
 * Bengali Intent Classification with Generative Adversarial BERT
 * Brain Tumor Detection with Cost-Sensitive Neural Network.   
-* Medical Image Classification using Federated Learning and Generative Adversarial Networks/Semi-Supervised Learning.
 * Report Generation from Medical Images.
 * Segmentation of Retinal Blood Vessels using Cutting Edge Segmentation Model.
+* Medical Image Classification using Federated Learning and Generative Adversarial Networks/Semi-Supervised Learning.
   
 
 ## Under Review
