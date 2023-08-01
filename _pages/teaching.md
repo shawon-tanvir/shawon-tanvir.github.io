@@ -66,6 +66,7 @@ Data-Procedure Encapsulation; Dynamic allocation; Linked structures; Introductio
 to Data Structure, Stacks and Queues; Search Trees; Time and space
 requirements. (A programming language like C/C++ may be used as a basis
 language. The same language must be used for the laboratory.)
+</font>
 </span><br>
 </details>
 
@@ -75,6 +76,7 @@ language. The same language must be used for the laboratory.)
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>: Laboratory works based on CSE 1287.
+</font>
 </span><br>
 </details>
 
