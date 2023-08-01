@@ -5,15 +5,15 @@ main:
     
   - title: "Funding & Publications"
     url: /publications/
+  
+  - title: "Research"
+    url: /research/
 
   - title: "Education & Awards"
     url: /education-awards/    
     
-  - title: "Research"
-    url: /research/
-    
-  #- title: "Blog Posts"
-    #url: /blog-posts/ 
+  - title: "Teaching"
+    url: /teaching/ 
     
   - title: "CV"
     url: /cv/
