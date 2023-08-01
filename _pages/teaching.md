@@ -8,8 +8,6 @@ author_profile: true
 
 # Teaching
 
-
-
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
 Lecturer<br />
 Department of Computer Science and Engineering<br />
@@ -20,6 +18,7 @@ Part-Time Faculty<br />
 Department of Computer Science and Engineering<br />
 <i style='color:#000099;'>February 2021 - June 2021</i> <br />
 
+<b>Experience</b>
 * Directorate of Secondary and Higher Education, Bangladesh.<br />
 Facilitator<br />
 Training on Python and Artificial Intelligence<br />
