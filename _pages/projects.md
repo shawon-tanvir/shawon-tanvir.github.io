@@ -23,7 +23,7 @@ author_profile: true
 * Medical Image Classification using Federated Learning and Generative Adversarial Networks/Semi-Supervised Learning.
   
 ## Submitted
-* Bengali Fake Reviews: A Benchmark Dataset and Detection System [[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)]
+* Bengali Fake Reviews: A Benchmark Dataset and Detection System [[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)] [[arxiv](https://arxiv.org/abs/2308.01987)]
 
 
 ## Under Review
