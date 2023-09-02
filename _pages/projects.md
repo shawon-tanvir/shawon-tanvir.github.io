@@ -22,12 +22,9 @@ author_profile: true
 * Segmentation of Retinal Blood Vessels using Cutting Edge Segmentation Model.
 * Medical Image Classification using Federated Learning and Generative Adversarial Networks/Semi-Supervised Learning.
   
-## Submitted
-* Bengali Fake Reviews: A Benchmark Dataset and Detection System [[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)] [[arxiv](https://arxiv.org/abs/2308.01987)]
-
-
 ## Under Review
 
+* Bengali Fake Reviews: A Benchmark Dataset and Detection System [[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)] [[arxiv](https://arxiv.org/abs/2308.01987)]
 * Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance [[Multimedia Tools and Applications](https://www.springer.com/journal/11042)] [[arxiv](https://arxiv.org/abs/2308.00608)]
 * Evaluation of Bengali Handwritten Mathematical Equation using Convolutional Neural Network [[International Journal on Document Analysis and Recognition (IJDAR)](https://www.springer.com/journal/10032)] [[researchsquare](https://www.researchsquare.com/article/rs-2553612/v1)]
 * Investigating the Effectiveness of Interpretable Cost-Sensitive Neural Network for Pneumonia Detection Contemplating Data Imbalance [[SN Computer Science](https://www.springer.com/journal/42979)] [[researchsquare](https://www.researchsquare.com/article/rs-3047442/v1)]
