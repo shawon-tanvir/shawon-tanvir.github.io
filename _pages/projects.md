@@ -30,7 +30,6 @@ author_profile: true
 * Investigating the Effectiveness of Interpretable Cost-Sensitive Neural Network for Pneumonia Detection Contemplating Data Imbalance [[SN Computer Science](https://www.springer.com/journal/42979)] [[researchsquare](https://www.researchsquare.com/article/rs-3047442/v1)]
 
 ## Accepted
-* Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks [[ICNLP 2023](http://www.icnlp.net/)]
 * Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach [[BIM 2023](https://confbim.com/)]
 
 __________________________________________________
