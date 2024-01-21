@@ -24,6 +24,8 @@ I have worked on several research projects involving computer vision and natural
 
 
 # Activities 
+* <span style="color:Blue"> [January 21, 2024] </span> - 1 paper accepted at [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/) 
+* <span style="color:Blue"> [December 14, 2023] </span> - 2 paper presented at [ICCIT 2023](https://iccit.org.bd/2023/).  
 * <span style="color:Blue"> [July 04, 2023] </span> - 4 paper accepted at [BIM 2023](https://confbim.com/).  
 * <span style="color:Blue"> [March 25, 2023] </span> - Presented a paper at [ICNLP 2023](http://www.icnlp.net/).  
 * <span style="color:Blue"> [January 13, 2023] </span> - One paper got accepted at [ICNLP 2023](http://www.icnlp.net/).  
