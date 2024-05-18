@@ -24,6 +24,9 @@ I have worked on several research projects involving computer vision and natural
 
 
 # Activities 
+* <span style="color:Blue"> [August 19, 2024] </span> - Will join at the College of Engineering and Computing of [George Mason University](https://cec.gmu.edu/) as a Ph.D. student.
+* <span style="color:Blue"> [April 30, 2024] </span> - 1 paper published at [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) - [Paper Link](https://www.sciencedirect.com/science/article/pii/S0925231224005034)
+* <span style="color:Blue"> [March 29, 2024] </span> - 1 paper published at [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/) - [Paper Link](https://aclanthology.org/2024.wnut-1.5/)
 * <span style="color:Blue"> [January 21, 2024] </span> - 1 paper accepted at [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/) 
 * <span style="color:Blue"> [December 14, 2023] </span> - 2 paper presented at [ICCIT 2023](https://iccit.org.bd/2023/).
 * <span style="color:Blue"> [October 11, 2023] </span> - Promoted as a Senior Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
