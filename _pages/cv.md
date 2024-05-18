@@ -17,6 +17,7 @@ redirect_from:
 
 **Email:** 
 shawontanvir95@gmail.com [Personal]<br />
+mshawon@gmu.edu [George Mason University}<br /> 
 shawontanvir.cse@aust.edu [Official}<br /> 
  <br /> 
 **Website:** [https://shawon-tanvir.github.io](https://shawon-tanvir.github.io/) <br />
