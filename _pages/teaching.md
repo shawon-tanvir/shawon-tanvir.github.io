@@ -11,7 +11,7 @@ author_profile: true
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
 Senior Lecturer<br />
 Department of Computer Science and Engineering<br />
-<i style='color:#000099;'>October 2023 - Present</i> <br />
+<i style='color:#000099;'>October 2023 - July 2024</i> <br />
 
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
 Lecturer<br />
