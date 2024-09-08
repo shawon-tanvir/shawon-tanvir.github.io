@@ -12,7 +12,7 @@ Greetings!!!
 
 <div style="text-align: justify"> 
 
-I am Md. Tanvir Rouf Shawon, a Lecturer, at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh in the <a href="https://www.aust.edu/cse">Department of CSE</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Computer Vision, Generative Adversarial Networks, Semi-Supervised Learning, Image Processing, Natural Language Processing, Large Language Models, Explainable Artificial Intelligence, Machine Learning Applications, and Deep Learning.<br /><br/>
+I am Md Tanvir Rouf Shawon, a Ph.D. student at <a href="http://gmu.edu/">George Mason University (GMU)</a>, Fairfax, Virginia, USA. I was formerly a Lecturer, at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh in the <a href="https://www.aust.edu/cse">Department of CSE</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Computer Vision, Generative Adversarial Networks, Semi-Supervised Learning, Image Processing, Natural Language Processing, Large Language Models, Explainable Artificial Intelligence, Machine Learning Applications, and Deep Learning.<br /><br/>
 
 I have worked on several research projects involving computer vision and natural language processing, and I am currently involved in a number of projects that collaborate with several academic talents. As an AUST lecturer, I am currently facilitating the Soft Computing course that includes artificial neural networks, deep learning models and fuzzy systems. I always make an effort to encourage my students to carry out in-depth research and explore cutting-edge technologies. I have gathered a great experience working on a funded project collaborating with <a href="https://scholar.google.com/citations?user=pBArY-sAAAAJ&hl=en">Dr. Md. Shahriar Mahbub</a>. Details of the project can be found <a href="https://shawon-tanvir.github.io/publications/">here</a>.  <br /><br/>
 </div>
@@ -24,7 +24,7 @@ I have worked on several research projects involving computer vision and natural
 
 
 # Activities 
-* <span style="color:Blue"> [August 19, 2024] </span> - Will join at the College of Engineering and Computing of [George Mason University](https://cec.gmu.edu/) as a Ph.D. student.
+* <span style="color:Blue"> [August 19, 2024] </span> - Joined at the CS department of [George Mason University](https://cs.gmu.edu/) as a Ph.D. student.
 * <span style="color:Blue"> [April 30, 2024] </span> - 1 paper published at [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) - [Paper Link](https://www.sciencedirect.com/science/article/pii/S0925231224005034)
 * <span style="color:Blue"> [March 29, 2024] </span> - 1 paper published at [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/) - [Paper Link](https://aclanthology.org/2024.wnut-1.5/)
 * <span style="color:Blue"> [January 21, 2024] </span> - 1 paper accepted at [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/) 
