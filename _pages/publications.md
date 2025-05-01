@@ -17,5 +17,5 @@ author_profile: true
 ## Publications
 ----------------
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2Fzx6BQtfxmRBt8jGF5&noBootstrap=1&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FgRNYBhrtHQBMN8RvM&noBootstrap=1&jsonp=1"></script>
 
