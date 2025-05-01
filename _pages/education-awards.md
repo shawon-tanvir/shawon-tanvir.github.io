@@ -15,7 +15,7 @@ redirect_from:
 Bachelor of Science (B.Sc.) in Computer Science and Engineering <br/>
 CGPA: <b>3.934/4.00</b> scale (<b>1<sup>st</sup></b> in Marit Position) <br/>
 Duration: 2016 - 2021 <br/>
-Supervisor: <a style="color:black;" href="https://scholar.google.com/citations?user=H4-yZ3wAAAAJ&hl=en&oi=sra">Mr. Mohammd Imrul Jubair</a><br/>
+Supervisor: <a style="color:black;" href="https://imruljubair.github.io/">Mr. Mohammd Imrul Jubair</a><br/>
 </span>
 
 <span style="font-family:Georgia; color:black;">
