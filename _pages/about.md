@@ -24,6 +24,7 @@ I have worked on several research projects involving computer vision and natural
 
 
 # Activities 
+* <span style="color:Blue"> [April 30, 2024] </span> - 1 paper published at [Multimedia Tools and Applications](https://link.springer.com/journal/11042) - [Paper Link](https://link.springer.com/article/10.1007/s11042-025-20842-x)
 * <span style="color:Blue"> [August 19, 2024] </span> - Joined at the CS department of [George Mason University](https://cs.gmu.edu/) as a Ph.D. student.
 * <span style="color:Blue"> [April 30, 2024] </span> - 1 paper published at [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) - [Paper Link](https://www.sciencedirect.com/science/article/pii/S0925231224005034)
 * <span style="color:Blue"> [March 29, 2024] </span> - 1 paper published at [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/) - [Paper Link](https://aclanthology.org/2024.wnut-1.5/)
