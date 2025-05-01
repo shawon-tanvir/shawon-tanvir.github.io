@@ -7,6 +7,7 @@ author_profile: true
 <b>Areas of Interests:</b>:
 * Natural Language Processing
 * Large Language Models
+* Health Informatics
 * Explainable Artificial Intelligence
 * Computer Vision, Generative Adversarial Network
 * Semi-Supervised Learning
