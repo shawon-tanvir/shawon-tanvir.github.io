@@ -12,7 +12,7 @@ redirect_from:
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.gmu.edu/" target="_blank">George Mason University</a></b></span><br/>
-Doctor of Philosophy (Ph.D.) in Computer Science <br/>
+Doctor of Philosophy (Ph.D.) in Computer Science (Ongoing) <br/>
 Duration: 2024 - 2029 <br/>
 </span>
 
