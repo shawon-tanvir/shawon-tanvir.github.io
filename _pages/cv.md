@@ -23,4 +23,3 @@ shawontanvir.cse@aust.edu [Official}<br />
 **Website:** [https://shawon-tanvir.github.io](https://shawon-tanvir.github.io/) <br />
 
 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao), [Github](https://github.com/shawon-tanvir).
-__________________________________________________________
