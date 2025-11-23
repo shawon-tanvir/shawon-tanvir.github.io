@@ -27,7 +27,7 @@ Department of Computer Science and Engineering<br />
 * Directorate of Secondary and Higher Education, Bangladesh.<br />
 Facilitator<br />
 Training on Python and Artificial Intelligence<br />
-<i style='color:#000099;'>May 2022 - Present</i> <br />
+<i style='color:#000099;'>May 2022 - August 2024</i> <br />
 
 <b>Courses</b>
 <details>
