@@ -16,11 +16,7 @@ author_profile: true
 
 ## Ongoing Works
 ----------------
-* Detection of Online Grooming/Predatory chats.
-* Brain Tumor Detection with Cost-Sensitive Neural Network.   
-* Report Generation from Medical Images.
-* Segmentation of Retinal Blood Vessels using Cutting Edge Segmentation Model.
-* Medical Image Classification using Federated Learning and Generative Adversarial Networks/Semi-Supervised Learning.
+* Patient Simulation for Systematic Evaluation of Conversational Agents in Healthcare: Operationalizing AI Risk Management
   
 ## Under Review
 
