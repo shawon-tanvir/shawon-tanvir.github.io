@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <b>Areas of Interests:</b>:
+* Health Informatics
 * Natural Language Processing
 * Large Language Models
-* Health Informatics
 * Explainable Artificial Intelligence
 * Computer Vision, Generative Adversarial Network
 * Semi-Supervised Learning
@@ -17,16 +17,17 @@ author_profile: true
 
 ## Ongoing Works
 ----------------
-* Patient Simulation for Systematic Evaluation of Conversational Agents in Healthcare: Operationalizing AI Risk Management
+* Patient Simulation for Systematic Evaluation of Conversational Agents in Healthcare for Suicidal Patients: Operationalizing AI Risk Management
   
 ## Under Review
 
-* Investigating the Effectiveness of Interpretable Cost-Sensitive Neural Network for Pneumonia Detection Contemplating Data Imbalance [[SN Computer Science](https://www.springer.com/journal/42979)] [[researchsquare](https://www.researchsquare.com/article/rs-3047442/v1)]
+* A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI: Evaluation of an Antidepressant Decision Aid [[Journal of Medical Internet Research: Artificial Intelligence](https://ai.jmir.org/)] [[arXiv](https://arxiv.org/pdf/2602.11391)]
 
 
 ## Conference and Journal Reviewing
-* Reviewer, [[Iranian Journal of Science and Technology, Transactions of Electrical Engineering.](https://link.springer.com/journal/40998)]
+* Reviewer, [[Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)]
 * Reviewer, [[International Journal of Image and Graphics.](https://www.worldscientific.com/worldscinet/IJIG?srsltid=AfmBOoqTgzxX5xl1oNfCHJe4Pntxl8bYnWJ83DESQBRwvh5IIum185PB)]
 * Reviewer, [[International Journal of Informatics and Communication Technology (IJ-ICT).](https://ijict.iaescore.com/index.php/IJICT)]
+
 
 __________________________________________________
