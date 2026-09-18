@@ -7,10 +7,10 @@
   --border: #e5e7eb;
   --card: #ffffff;
   --soft: #f9fafb;
-  --blue: #2563eb;
-  --teal: #0ea5b8;
-  --indigo-bg: #eef2ff;
-  --indigo-text: #4338ca;
+  --blue: #7c3aed;
+  --teal: #f59e0b;
+  --indigo-bg: #f3e8ff;
+  --indigo-text: #6d28d9;
   --green-bg: #dcfce7;
   --green-text: #166534;
   --amber-bg: #fef3c7;
@@ -169,8 +169,7 @@ a:hover {
   height: 128px;
   border-radius: 50%;
   overflow: hidden;
-  border: 3px solid var(--blue);
-  box-shadow: 0 0 0 6px var(--indigo-bg);
+  border: 2px solid var(--border);
 }
 
 .hero__avatar img {
