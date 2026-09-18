@@ -84,6 +84,8 @@ redirect_from:
   <p>I was formerly a Lecturer at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh, in the <a href="https://www.aust.edu/cse">Department of CSE</a>, where I also completed my B.Sc. in Computer Science and Engineering, graduating first in my class. Between 2021 and 2024 I taught across much of the undergraduate CS curriculum there, from introductory and assembly-language programming to algorithms, pattern recognition, and soft computing, and later trained government-sponsored cohorts of teachers in Python and AI as part of a national digital-literacy initiative in Bangladesh.</p>
   <p>Teaching taught me as much as it let me teach: explaining complex concepts and engaging with students' questions continually challenged me to deepen my own understanding, which is part of what drew me toward a Ph.D.</p>
 
+  <p><strong>Currently working on:</strong> a PCORI-funded project on conversational AI for depression management with Dr. Farrokh Alemi and Co-PI Dr. Kevin Lybarge, alongside a related patient-simulation framework for evaluating conversational agents in mental-health care for suicidal patients. See the <a href="#research">Research</a> section below for details.</p>
+
   <p><strong>Research Interests</strong></p>
   <div>
     <span class="tag">Health Informatics</span>
