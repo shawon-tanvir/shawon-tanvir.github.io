@@ -170,7 +170,7 @@ a:hover {
   height: 128px;
   border-radius: 50%;
   overflow: hidden;
-  border: 2px solid var(--border);
+  border: 3px solid var(--blue);
 }
 
 .hero__avatar img {
