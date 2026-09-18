@@ -79,12 +79,12 @@ redirect_from:
 <section id="about">
   <span class="kicker">Get to know me</span>
   <h2>About Me</h2>
-  <p>I am a Ph.D. student in Computer Science at <a href="http://gmu.edu/">George Mason University</a>, working under <a href="https://www.gmu.edu/profiles/klybarge">Dr. Kevin Lybarge</a>. My research centers on health informatics, building and evaluating conversational AI systems for safety in mental-health care, particularly how these systems behave around vulnerable patients before they ever reach a real clinical setting.</p>
+  <p>I am a 3rd-year Ph.D. student in Computer Science at <a href="http://gmu.edu/">George Mason University</a>, advised by <a href="https://www.gmu.edu/profiles/klybarge">Dr. Kevin Lybarger</a>. My research centers on health informatics, building and evaluating conversational AI systems for safety in mental-health care, particularly how these systems behave around vulnerable patients before they ever reach a real clinical setting.</p>
   <p>My path here started in natural language processing. As Co-Principal Investigator on a CASR-funded project at AUST, I helped build one of the early benchmark datasets for detecting fake reviews in Bengali, alongside published work spanning NLP and computer vision. That line of research is what pulled me toward safety-critical applications of AI, which is why my Ph.D. work now focuses on patient-simulation frameworks for evaluating conversational agents used in mental-health care.</p>
   <p>I was formerly a Lecturer at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh, in the <a href="https://www.aust.edu/cse">Department of CSE</a>, where I also completed my B.Sc. in Computer Science and Engineering, graduating first in my class. Between 2021 and 2024 I taught across much of the undergraduate CS curriculum there, from introductory and assembly-language programming to algorithms, pattern recognition, and soft computing, and later trained government-sponsored cohorts of teachers in Python and AI as part of a national digital-literacy initiative in Bangladesh.</p>
   <p>Teaching taught me as much as it let me teach: explaining complex concepts and engaging with students' questions continually challenged me to deepen my own understanding, which is part of what drew me toward a Ph.D.</p>
 
-  <p><strong>Currently working on:</strong> a PCORI-funded project on conversational AI for depression management with Dr. Farrokh Alemi and Co-PI Dr. Kevin Lybarge, alongside a related patient-simulation framework for evaluating conversational agents in mental-health care for suicidal patients. See the <a href="#research">Research</a> section below for details.</p>
+  <p><strong>Currently working on:</strong> a PCORI-funded project developing an advanced AI system for depression management, as a Graduate Research Assistant under PIs Dr. Farrokh Alemi and Dr. Kevin Lybarger, alongside a related patient-simulation framework for evaluating conversational agents in mental-health care for suicidal patients. See the <a href="#research">Research</a> section below for details.</p>
 
   <p><strong>Research Interests</strong></p>
   <div>
@@ -127,8 +127,8 @@ redirect_from:
 
   <div class="card">
     <span class="badge badge--ongoing">Ongoing</span>
-    <h3 style="margin-top: 10px;">Conversational AI for Depression Management</h3>
-    <p class="meta">With Dr. Farrokh Alemi and Co-PI Dr. Kevin Lybarge · Funded by the Patient-Centered Outcomes Research Institute (PCORI) · $1,049,998 · 3 years</p>
+    <h3 style="margin-top: 10px;">Development of an Advanced AI System for Depression Management</h3>
+    <p class="meta">Graduate Research Assistant · PIs: Dr. Farrokh Alemi (College of Public Health) &amp; Dr. Kevin Lybarger (College of Engineering and Computing) · PCORI-funded, $1,049,998 · Jul–Aug 2025, May 2026–Present</p>
     <p>Evaluating conversational AI for depression management: exploring how large language models can improve antidepressant recommendations and patient outcomes. The project develops patient simulations and risk-assessment methods to test whether conversational agents give trustworthy guidance on antidepressant selection.</p>
     <div class="card__links">
       <a href="https://www.pcori.org/">PCORI ↗</a>
@@ -154,7 +154,23 @@ redirect_from:
   <div class="card">
     <span class="badge badge--published">Funded</span>
     <h3 style="margin-top: 10px;">Bengali Fake Reviews: A Benchmark Dataset and Detection System</h3>
-    <p class="meta">Co-Principal Investigator · CASR, Ahsanullah University of Science and Technology · May 2022 – May 2023</p>
+    <p class="meta">Co-Principal Investigator · CASR, Ahsanullah University of Science and Technology · Jan 2022 – Jan 2023</p>
+  </div>
+
+  <p><strong>Conference Presentations</strong></p>
+  <div class="card">
+    <h3>Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks</h3>
+    <p class="meta">5th International Conference on Natural Language Processing (ICNLP), Guangzhou, China · Mar 24–26, 2023</p>
+    <div class="card__links">
+      <a href="https://youtu.be/rd5N6z5-HOU">Presentation video ↗</a>
+    </div>
+  </div>
+  <div class="card">
+    <h3>Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions</h3>
+    <p class="meta">1st International Conference on Information and Communication Technology for Development (ICICTD), Khulna, Bangladesh · Jul 29–30, 2022</p>
+    <div class="card__links">
+      <a href="https://youtu.be/Y4ntugjHEGM">Presentation video ↗</a>
+    </div>
   </div>
 
   <p><strong>Journal Reviewing</strong></p>
@@ -220,6 +236,11 @@ redirect_from:
   <span class="kicker">In the Classroom</span>
   <h2>Teaching Experience</h2>
 
+  <div class="card">
+    <h3>Graduate Teaching Assistant</h3>
+    <p class="meta">Department of Computer Science, George Mason University · Aug 2025 – Present</p>
+    <p>Courses: Database Concepts, Introduction to Low-Level Programming.</p>
+  </div>
   <div class="card">
     <h3>Senior Lecturer</h3>
     <p class="meta">Department of CSE, Ahsanullah University of Science and Technology (AUST) · Oct 2023 – Jul 2024</p>
