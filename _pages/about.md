@@ -96,6 +96,7 @@ redirect_from:
   <details style="margin-top: 20px;">
     <summary>Full activity timeline</summary>
     <p>
+      <strong>Sep 2026</strong> — Paper accepted at <a href="https://ai.jmir.org/">JMIR AI</a>: <em>A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI: Evaluation of an Antidepressant Decision Aid</em> (<a href="https://arxiv.org/pdf/2602.11391">preprint</a>).<br>
       <strong>Apr 2025</strong> — Paper published at <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a> (<a href="https://link.springer.com/article/10.1007/s11042-025-20842-x">link</a>).<br>
       <strong>Aug 2024</strong> — Joined the CS department of George Mason University as a Ph.D. student.<br>
       <strong>Apr 2024</strong> — Paper published at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a> (<a href="https://www.sciencedirect.com/science/article/pii/S0925231224005034">link</a>).<br>
@@ -131,13 +132,13 @@ redirect_from:
   <h2>Research Experience</h2>
 
   <div class="card">
-    <span class="badge badge--accepted">Ongoing</span>
+    <span class="badge badge--ongoing">Ongoing</span>
     <h3 style="margin-top: 10px;">Patient Simulation for Systematic Evaluation of Conversational Agents in Healthcare for Suicidal Patients</h3>
     <p class="meta">Operationalizing AI risk management for conversational agents used in mental-health care.</p>
   </div>
 
   <div class="card">
-    <span class="badge badge--accepted">Under Review</span>
+    <span class="badge badge--accepted">Accepted · Sep 2026</span>
     <h3 style="margin-top: 10px;">A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI</h3>
     <p class="meta">Evaluation of an antidepressant decision aid.</p>
     <div class="card__links">
@@ -172,7 +173,7 @@ redirect_from:
   <div class="card">
     <h3>B.Sc. in Computer Science and Engineering</h3>
     <p class="meta"><a href="https://aust.edu">Ahsanullah University of Science and Technology</a>, Dhaka · 2016 – 2021</p>
-    <p>CGPA: 3.934 / 4.00 — graduated 1st in merit position. Supervisor: <a href="https://imruljubair.github.io/">Mr. Mohammd Imrul Jubair</a>.</p>
+    <p>CGPA: 3.934 / 4.00 — graduated 1st in merit position. Supervisor: <a href="https://imruljubair.github.io/">Mr. Mohammad Imrul Jubair</a>.</p>
   </div>
 
   <div class="card">
