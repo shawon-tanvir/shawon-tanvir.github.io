@@ -128,7 +128,7 @@ redirect_from:
   <div class="card">
     <span class="badge badge--ongoing">Ongoing</span>
     <h3 style="margin-top: 10px;">Development of an Advanced AI System for Depression Management</h3>
-    <p class="meta">Graduate Research Assistant · PIs: Dr. Farrokh Alemi (College of Public Health) &amp; Dr. Kevin Lybarger (College of Engineering and Computing) · PCORI-funded, $1,049,998 · Jul–Aug 2025, May 2026–Present</p>
+    <p class="meta">Graduate Research Assistant · PIs: Dr. Farrokh Alemi (College of Public Health) &amp; Dr. Kevin Lybarger (College of Engineering and Computing) · PCORI-funded, $1,049,998 · Jul–Aug 2025, May–Aug 2026</p>
     <p>Evaluating conversational AI for depression management: exploring how large language models can improve antidepressant recommendations and patient outcomes. The project develops patient simulations and risk-assessment methods to test whether conversational agents give trustworthy guidance on antidepressant selection.</p>
     <div class="card__links">
       <a href="https://www.pcori.org/">PCORI ↗</a>
