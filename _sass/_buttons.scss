@@ -11,19 +11,19 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #fff !important;
-  font-family: $sans-serif;
+  color: $body-color !important;
+  font-family: $monospace;
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
+  background-color: $accent-color;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(#fff, $accent-color, 25%);
   }
 
   .icon {
@@ -48,26 +48,34 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $gray !important;
-    border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    color: $text-color !important;
+    border: 1px solid $border-color !important; /* override*/
+    background-color: $surface-color;
 
     &:hover {
-      color: #fff !important;
-      border-color: $gray;
+      color: $accent-color !important;
+      border-color: $accent-color;
     }
   }
 
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    color: $text-color !important; /* override*/
+    border: 1px solid $border-color !important; /* override*/
     background-color: transparent;
+
+    &:hover {
+      color: $accent-color !important;
+      border-color: $accent-color !important;
+      background-color: transparent;
+    }
   }
 
   /* information */
 
   &--info {
+    color: #fff !important;
     background-color: $info-color;
 
     &:hover {
@@ -78,6 +86,7 @@
   /* warning */
 
   &--warning {
+    color: #fff !important;
     background-color: $warning-color;
 
     &:hover {
@@ -88,6 +97,7 @@
   /* success */
 
   &--success {
+    color: #fff !important;
     background-color: $success-color;
 
     &:hover {
@@ -98,6 +108,7 @@
   /* danger */
 
   &--danger {
+    color: #fff !important;
     background-color: $danger-color;
 
     &:hover {
@@ -125,6 +136,7 @@
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
+      color: #fff !important;
       background-color: $color;
 
       &:hover {
