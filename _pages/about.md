@@ -126,7 +126,7 @@ redirect_from:
   <div class="card">
     <span class="badge badge--ongoing">Ongoing</span>
     <h3 style="margin-top: 10px;">Conversational AI for Depression Management</h3>
-    <p class="meta">With Dr. Farrokh Alemi · Funded by the Patient-Centered Outcomes Research Institute (PCORI) · $1,049,998 · 3 years</p>
+    <p class="meta">With Dr. Farrokh Alemi and Co-PI Dr. Kevin Lybarge · Funded by the Patient-Centered Outcomes Research Institute (PCORI) · $1,049,998 · 3 years</p>
     <p>Evaluating conversational AI for depression management: exploring how large language models can improve antidepressant recommendations and patient outcomes. The project develops patient simulations and risk-assessment methods to test whether conversational agents give trustworthy guidance on antidepressant selection.</p>
     <div class="card__links">
       <a href="https://www.pcori.org/">PCORI ↗</a>
