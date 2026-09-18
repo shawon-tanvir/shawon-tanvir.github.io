@@ -35,7 +35,8 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $monospace;
+    font-family: $header-font-family;
+    font-style: italic;
   }
 
   h3, h4 {
@@ -121,7 +122,8 @@
   }
 }
 .sidebar .author__name {
-  font-family: $monospace;
+  font-family: $header-font-family;
+  font-style: italic;
   font-size: $type-size-5;
   color: $accent-color;
 }

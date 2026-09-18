@@ -13,9 +13,9 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "IBM Plex Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-$monospace                  : "JetBrains Mono", Menlo, Consolas, "Lucida Console", monospace;
+$serif                      : "Source Serif 4", Georgia, "Times New Roman", serif;
+$sans-serif                 : "Archivo", -apple-system, ".SFNSText-Regular", "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+$monospace                  : Menlo, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -27,9 +27,10 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
+$display-serif              : "Fraunces", Georgia, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $monospace;
+$global-font-family         : $serif;
+$header-font-family         : $display-serif;
 $caption-font-family        : $sans-serif;
 
 /* type scale */
@@ -47,22 +48,23 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #8A93A3;
-$dark-gray                  : #4B5568;
-$darker-gray                : #2B3441;
-$light-gray                 : #A7AFBC;
-$lighter-gray               : #C9CFD8;
+$gray                       : #8A8070;
+$dark-gray                  : #6B6355;
+$darker-gray                : #4A4438;
+$light-gray                 : #B8AF9C;
+$lighter-gray               : #DDD5C7;
 
-$body-color                 : #0A0C10;
-$background-color           : #0A0C10;
-$code-background-color      : #12151B;
-$code-background-color-dark : #1E2530;
-$text-color                 : #E6E8EB;
-$border-color               : #1E2530;
+$body-color                 : #F5F1E8;
+$background-color           : #F5F1E8;
+$code-background-color      : #EFE9DB;
+$code-background-color-dark : #DDD5C7;
+$text-color                 : #2B2620;
+$border-color               : #DDD5C7;
 
-$primary-color              : #4B5568;
-$accent-color               : #8FF7D0;
-$surface-color              : #11151C;
+$primary-color              : #6B6355;
+$accent-color               : #C1502E;
+$accent-secondary           : #4A5D4E;
+$surface-color              : #EFE9DB;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -93,9 +95,9 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $accent-color;
-$link-color-hover           : mix(#fff, $link-color, 25%);
+$link-color-hover           : mix(#000, $link-color, 20%);
 $link-color-visited         : mix(#000, $link-color, 15%);
-$masthead-link-color        : $light-gray;
+$masthead-link-color        : $dark-gray;
 $masthead-link-color-hover  : $text-color;
 
 
