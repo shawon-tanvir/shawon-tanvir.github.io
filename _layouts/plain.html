@@ -10,7 +10,7 @@
     {% include seo.html %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="{{ base_path }}/images/site-logo.png">
-    <link rel="stylesheet" href="{{ base_path }}/assets/css/plain.css">
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/plain.css?v={{ site.time | date: '%s' }}">
   </head>
 
   <body>

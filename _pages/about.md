@@ -20,8 +20,8 @@ redirect_from:
     <ul class="site-nav__links">
       <li><a href="#home">Home</a></li>
       <li><a href="#about">About</a></li>
-      <li><a href="#publications">Publications</a></li>
       <li><a href="#research">Research</a></li>
+      <li><a href="#publications">Publications</a></li>
       <li><a href="#education">Education</a></li>
       <li><a href="#teaching">Teaching</a></li>
       <li><a href="#contact" class="btn btn--accent btn--sm">Contact</a></li>
@@ -36,7 +36,7 @@ redirect_from:
 
   <div class="hero__grid">
     <div class="hero__avatar">
-      <img src="{{ base_path }}/images/profile_Photo.jpg" alt="Md Tanvir Rouf Shawon">
+      <img src="{{ base_path }}/images/profile-avatar.jpg" alt="Md Tanvir Rouf Shawon">
     </div>
     <div class="hero__body">
       <h1>Hi, I'm <span class="accent">Md Tanvir Rouf Shawon</span></h1>
@@ -79,8 +79,10 @@ redirect_from:
 <section id="about">
   <span class="kicker">Get to know me</span>
   <h2>About Me</h2>
-  <p>I am a Ph.D. student in Computer Science at <a href="http://gmu.edu/">George Mason University</a>, working under <a href="https://www.gmu.edu/profiles/klybarge">Dr. Kevin Lybarge</a>. My research centers on health informatics — building and evaluating conversational AI systems for safety in mental-health care.</p>
-  <p>I was formerly a Lecturer at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh, in the <a href="https://www.aust.edu/cse">Department of CSE</a>, where I also completed my B.Sc. in Computer Science and Engineering, graduating first in my class. Teaching taught me as much as it let me teach — explaining complex concepts and engaging with students' questions continually challenged me to deepen my own understanding, which is part of what drew me toward a Ph.D.</p>
+  <p>I am a Ph.D. student in Computer Science at <a href="http://gmu.edu/">George Mason University</a>, working under <a href="https://www.gmu.edu/profiles/klybarge">Dr. Kevin Lybarge</a>. My research centers on health informatics, building and evaluating conversational AI systems for safety in mental-health care, particularly how these systems behave around vulnerable patients before they ever reach a real clinical setting.</p>
+  <p>My path here started in natural language processing. As Co-Principal Investigator on a CASR-funded project at AUST, I helped build one of the early benchmark datasets for detecting fake reviews in Bengali, alongside published work spanning NLP and computer vision. That line of research is what pulled me toward safety-critical applications of AI, which is why my Ph.D. work now focuses on patient-simulation frameworks for evaluating conversational agents used in mental-health care.</p>
+  <p>I was formerly a Lecturer at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh, in the <a href="https://www.aust.edu/cse">Department of CSE</a>, where I also completed my B.Sc. in Computer Science and Engineering, graduating first in my class. Between 2021 and 2024 I taught across much of the undergraduate CS curriculum there, from introductory and assembly-language programming to algorithms, pattern recognition, and soft computing, and later trained government-sponsored cohorts of teachers in Python and AI as part of a national digital-literacy initiative in Bangladesh.</p>
+  <p>Teaching taught me as much as it let me teach: explaining complex concepts and engaging with students' questions continually challenged me to deepen my own understanding, which is part of what drew me toward a Ph.D.</p>
 
   <p><strong>Research Interests</strong></p>
   <div>
@@ -96,40 +98,40 @@ redirect_from:
   <details style="margin-top: 20px;">
     <summary>Full activity timeline</summary>
     <p>
-      <strong>Sep 2026</strong> — Paper accepted at <a href="https://ai.jmir.org/">JMIR AI</a>: <em>A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI: Evaluation of an Antidepressant Decision Aid</em> (<a href="https://arxiv.org/pdf/2602.11391">preprint</a>).<br>
-      <strong>Apr 2025</strong> — Paper published at <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a> (<a href="https://link.springer.com/article/10.1007/s11042-025-20842-x">link</a>).<br>
-      <strong>Aug 2024</strong> — Joined the CS department of George Mason University as a Ph.D. student.<br>
-      <strong>Apr 2024</strong> — Paper published at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a> (<a href="https://www.sciencedirect.com/science/article/pii/S0925231224005034">link</a>).<br>
-      <strong>Mar 2024</strong> — Paper published at <a href="https://noisy-text.github.io/2024/">W-NUT 2024</a>, collocated with <a href="https://2024.eacl.org/">EACL 2024</a> (<a href="https://aclanthology.org/2024.wnut-1.5/">link</a>).<br>
-      <strong>Dec 2023</strong> — Two papers presented at <a href="https://iccit.org.bd/2023/">ICCIT 2023</a>.<br>
-      <strong>Oct 2023</strong> — Promoted to Senior Lecturer, Department of CSE, AUST.<br>
-      <strong>Jul 2023</strong> — Four papers accepted at <a href="https://confbim.com/">BIM 2023</a>.<br>
-      <strong>Mar 2023</strong> — Presented a paper at <a href="http://www.icnlp.net/">ICNLP 2023</a>.<br>
-      <strong>Oct 2022</strong> — Article accepted at the <a href="https://www.springer.com/journal/42044">Iranian Journal of Computer Science</a>.<br>
-      <strong>Jul 2022</strong> — Presented a paper at <a href="https://iict.kuet.ac.bd/icictd2022/">ICICTD 2022</a>.<br>
-      <strong>May 2022</strong> — Paper accepted for the LNNS series (vol. 583) at <a href="https://www.dcai-conference.net/">DCAI 2022</a>.<br>
-      <strong>Jan 2022</strong> — Awarded funding for a project from <a href="https://www.aust.edu/casr">CASR, AUST</a>.<br>
-      <strong>Jun 2021</strong> — Joined as a Lecturer, Department of CSE, AUST.<br>
-      <strong>Feb 2021</strong> — Joined as an Adjunct Lecturer, Department of CSE, AUST.<br>
-      <strong>Dec 2020</strong> — Successfully defended my <a href="https://shawon-tanvir.github.io/files/Thesis_Presentation.pdf">B.Sc. Thesis</a>.<br>
-      <strong>Nov 2020</strong> — Paper accepted at <a href="https://iccit.org.bd/2020/">ICCIT 2020</a>.
+      <strong>Sep 2026</strong>: Paper accepted at <a href="https://ai.jmir.org/">JMIR AI</a>: <em>A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI: Evaluation of an Antidepressant Decision Aid</em> (<a href="https://arxiv.org/pdf/2602.11391">preprint</a>).<br>
+      <strong>Apr 2025</strong>: Paper published at <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a> (<a href="https://link.springer.com/article/10.1007/s11042-025-20842-x">link</a>).<br>
+      <strong>Aug 2024</strong>: Joined the CS department of George Mason University as a Ph.D. student.<br>
+      <strong>Apr 2024</strong>: Paper published at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a> (<a href="https://www.sciencedirect.com/science/article/pii/S0925231224005034">link</a>).<br>
+      <strong>Mar 2024</strong>: Paper published at <a href="https://noisy-text.github.io/2024/">W-NUT 2024</a>, collocated with <a href="https://2024.eacl.org/">EACL 2024</a> (<a href="https://aclanthology.org/2024.wnut-1.5/">link</a>).<br>
+      <strong>Dec 2023</strong>: Two papers presented at <a href="https://iccit.org.bd/2023/">ICCIT 2023</a>.<br>
+      <strong>Oct 2023</strong>: Promoted to Senior Lecturer, Department of CSE, AUST.<br>
+      <strong>Jul 2023</strong>: Four papers accepted at <a href="https://confbim.com/">BIM 2023</a>.<br>
+      <strong>Mar 2023</strong>: Presented a paper at <a href="http://www.icnlp.net/">ICNLP 2023</a>.<br>
+      <strong>Oct 2022</strong>: Article accepted at the <a href="https://www.springer.com/journal/42044">Iranian Journal of Computer Science</a>.<br>
+      <strong>Jul 2022</strong>: Presented a paper at <a href="https://iict.kuet.ac.bd/icictd2022/">ICICTD 2022</a>.<br>
+      <strong>May 2022</strong>: Paper accepted for the LNNS series (vol. 583) at <a href="https://www.dcai-conference.net/">DCAI 2022</a>.<br>
+      <strong>Jan 2022</strong>: Awarded funding for a project from <a href="https://www.aust.edu/casr">CASR, AUST</a>.<br>
+      <strong>Jun 2021</strong>: Joined as a Lecturer, Department of CSE, AUST.<br>
+      <strong>Feb 2021</strong>: Joined as an Adjunct Lecturer, Department of CSE, AUST.<br>
+      <strong>Dec 2020</strong>: Successfully defended my <a href="https://shawon-tanvir.github.io/files/Thesis_Presentation.pdf">B.Sc. Thesis</a>.<br>
+      <strong>Nov 2020</strong>: Paper accepted at <a href="https://iccit.org.bd/2020/">ICCIT 2020</a>.
     </p>
   </details>
-</section>
-
-<section id="publications">
-  <span class="kicker">Research Output</span>
-  <h2>Publications</h2>
-  <p class="lede">Full list, synced live from Google Scholar (20+ publications, 250+ citations, h-index 11).</p>
-  <div class="card">
-    <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FgRNYBhrtHQBMN8RvM&noBootstrap=1&jsonp=1"></script>
-  </div>
-  <p><a href="https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao">View full profile on Google Scholar →</a></p>
 </section>
 
 <section id="research">
   <span class="kicker">Beyond the Classroom</span>
   <h2>Research Experience</h2>
+
+  <div class="card">
+    <span class="badge badge--ongoing">Ongoing</span>
+    <h3 style="margin-top: 10px;">Conversational AI for Depression Management</h3>
+    <p class="meta">With Dr. Farrokh Alemi · Funded by the Patient-Centered Outcomes Research Institute (PCORI) · $1,049,998 · 3 years</p>
+    <p>Evaluating conversational AI for depression management: exploring how large language models can improve antidepressant recommendations and patient outcomes. The project develops patient simulations and risk-assessment methods to test whether conversational agents give trustworthy guidance on antidepressant selection.</p>
+    <div class="card__links">
+      <a href="https://www.pcori.org/">PCORI ↗</a>
+    </div>
+  </div>
 
   <div class="card">
     <span class="badge badge--ongoing">Ongoing</span>
@@ -161,6 +163,16 @@ redirect_from:
   </ul>
 </section>
 
+<section id="publications">
+  <span class="kicker">Research Output</span>
+  <h2>Publications</h2>
+  <p class="lede">Full list, synced live from Google Scholar (20+ publications, 250+ citations, h-index 11).</p>
+  <div class="card">
+    <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FgRNYBhrtHQBMN8RvM&noBootstrap=1&jsonp=1"></script>
+  </div>
+  <p><a href="https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao">View full profile on Google Scholar →</a></p>
+</section>
+
 <section id="education">
   <span class="kicker">Academic Record</span>
   <h2>Education</h2>
@@ -173,7 +185,7 @@ redirect_from:
   <div class="card">
     <h3>B.Sc. in Computer Science and Engineering</h3>
     <p class="meta"><a href="https://aust.edu">Ahsanullah University of Science and Technology</a>, Dhaka · 2016 – 2021</p>
-    <p>CGPA: 3.934 / 4.00 — graduated 1st in merit position. Supervisor: <a href="https://imruljubair.github.io/">Mr. Mohammad Imrul Jubair</a>.</p>
+    <p>CGPA: 3.934 / 4.00. Graduated 1st in merit position. Supervisor: <a href="https://imruljubair.github.io/">Mr. Mohammad Imrul Jubair</a>.</p>
   </div>
 
   <div class="card">
