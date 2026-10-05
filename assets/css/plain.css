@@ -405,6 +405,25 @@ section li {
   margin-bottom: 0;
 }
 
+.box {
+  padding: 22px 24px;
+  margin-bottom: 16px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.box--highlight {
+  background: var(--indigo-bg);
+  border: 1px solid var(--blue);
+  border-left: 6px solid var(--blue);
+  box-shadow: 0 4px 14px rgba(124, 58, 237, 0.08);
+}
+
+.box--highlight h3 {
+  color: var(--text);
+}
+
 /* Details / accordion (course syllabi)
    ========================================================================== */
 

@@ -100,7 +100,7 @@ redirect_from:
   <details style="margin-top: 20px;">
     <summary>Full activity timeline</summary>
     <p>
-      <strong>Sep 2026</strong>: Paper accepted at <a href="https://ai.jmir.org/">JMIR AI</a>: <em>A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI: Evaluation of an Antidepressant Decision Aid</em> (<a href="https://arxiv.org/pdf/2602.11391">preprint</a>).<br>
+      <strong>2026</strong>: Paper published in <a href="https://ai.jmir.org/2026/1/e100772">JMIR AI</a>: <em>A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI: Evaluation of an Antidepressant Decision Aid</em> (<a href="https://arxiv.org/pdf/2602.11391">preprint</a>).<br>
       <strong>Apr 2025</strong>: Paper published at <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a> (<a href="https://link.springer.com/article/10.1007/s11042-025-20842-x">link</a>).<br>
       <strong>Aug 2024</strong>: Joined the CS department of George Mason University as a Ph.D. student.<br>
       <strong>Apr 2024</strong>: Paper published at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a> (<a href="https://www.sciencedirect.com/science/article/pii/S0925231224005034">link</a>).<br>
@@ -141,12 +141,13 @@ redirect_from:
     <p class="meta">Operationalizing AI risk management for conversational agents used in mental-health care.</p>
   </div>
 
-  <div class="card">
-    <span class="badge badge--accepted">Accepted · Sep 2026</span>
-    <h3 style="margin-top: 10px;">A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI</h3>
-    <p class="meta">Evaluation of an antidepressant decision aid.</p>
+  <div class="box box--highlight">
+    <span class="badge badge--published">Published · 2026</span>
+    <h3 style="margin-top: 10px;">A Patient Simulation Framework for Risk Assessment of Conversational Healthcare AI: Evaluation of an Antidepressant Decision Aid</h3>
+    <p class="meta"><strong>Journal:</strong> Journal of Medical Internet Research: Artificial Intelligence (JMIR AI), 2026, vol. 1, e100772</p>
+    <p class="meta"><strong>Authors:</strong> Md. Tanvir Rouf Shawon, Mohammad Sabik Irbaz, Hadeel R. A. Elyazori, Keerti Reddy Resapu, Yili Lin, Vladimir Franzuela Cardenas, K. Pierre Eklou, Farrokh Alemi, Kevin Lybarger</p>
     <div class="card__links">
-      <a href="https://ai.jmir.org/">JMIR AI ↗</a>
+      <a href="https://ai.jmir.org/2026/1/e100772">Read the paper ↗</a>
       <a href="https://arxiv.org/pdf/2602.11391">Preprint (arXiv) ↗</a>
     </div>
   </div>
