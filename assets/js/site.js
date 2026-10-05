@@ -1,32 +1,8 @@
 (function () {
-  var root = document.documentElement;
-
-  function safeGet(key) {
-    try { return localStorage.getItem(key); } catch (e) { return null; }
-  }
-  function safeSet(key, value) {
-    try { localStorage.setItem(key, value); } catch (e) {}
-  }
-
-  var toggle = document.querySelector("[data-theme-toggle]");
-  function applyTheme(theme) {
-    root.setAttribute("data-theme", theme);
-    if (toggle) {
-      toggle.setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
-      toggle.textContent = theme === "dark" ? "Light" : "Dark";
-    }
-  }
-  applyTheme(root.getAttribute("data-theme") || "light");
-  if (toggle) {
-    toggle.addEventListener("click", function () {
-      var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
-      applyTheme(next);
-      safeSet("theme", next);
-    });
-  }
+  var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   var typeEl = document.querySelector("[data-typing]");
-  if (typeEl && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  if (typeEl && !reduceMotion) {
     var phrases = JSON.parse(typeEl.getAttribute("data-typing"));
     var pi = 0, ci = 0, deleting = false;
     var tick = function () {
@@ -39,33 +15,6 @@
     };
     tick();
   }
-
-  document.querySelectorAll(".stats, .grid-2, .credits, .entry-list").forEach(function (group) {
-    Array.prototype.forEach.call(group.children, function (child, i) {
-      child.classList.add("reveal");
-      child.style.transitionDelay = (i * 0.08) + "s";
-    });
-  });
-  document.querySelectorAll("section .card, section .box").forEach(function (el) {
-    el.classList.add("reveal");
-  });
-
-  var revealEls = document.querySelectorAll(".reveal");
-  if ("IntersectionObserver" in window && revealEls.length) {
-    var io = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-visible");
-          io.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.12 });
-    revealEls.forEach(function (el) { io.observe(el); });
-  } else {
-    revealEls.forEach(function (el) { el.classList.add("is-visible"); });
-  }
-
-  var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   var bar = document.querySelector(".scroll-progress");
   if (bar) {
@@ -93,7 +42,10 @@
     };
     requestAnimationFrame(step);
   };
-  if ("IntersectionObserver" in window && counters.length && !reduceMotion) {
+
+  var hasIO = "IntersectionObserver" in window;
+
+  if (hasIO && counters.length && !reduceMotion) {
     var cio = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
         if (entry.isIntersecting) {
@@ -105,13 +57,38 @@
     counters.forEach(function (el) { cio.observe(el); });
   }
 
-  var links = document.querySelectorAll(".site-nav__links a[href^='#']");
+  document.querySelectorAll(".grid-2, .credits, .entry-list").forEach(function (group) {
+    Array.prototype.forEach.call(group.children, function (child, i) {
+      child.classList.add("reveal");
+      child.style.transitionDelay = (i * 0.08) + "s";
+    });
+  });
+  document.querySelectorAll("section .card, section .box").forEach(function (el) {
+    el.classList.add("reveal");
+  });
+
+  var revealEls = document.querySelectorAll(".reveal");
+  if (hasIO && revealEls.length && !reduceMotion) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
+    revealEls.forEach(function (el) { io.observe(el); });
+  } else {
+    revealEls.forEach(function (el) { el.classList.add("is-visible"); });
+  }
+
+  var navLinks = document.querySelectorAll(".profile__nav a[href^='#']");
   var sections = [];
-  links.forEach(function (a) {
+  navLinks.forEach(function (a) {
     var s = document.querySelector(a.getAttribute("href"));
     if (s) sections.push({ link: a, section: s });
   });
-  if ("IntersectionObserver" in window && sections.length) {
+  if (hasIO && sections.length) {
     var spy = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
         if (!entry.isIntersecting) return;

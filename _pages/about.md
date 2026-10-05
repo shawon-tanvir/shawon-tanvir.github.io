@@ -14,58 +14,45 @@ redirect_from:
   - /resume
 ---
 
-<nav class="site-nav">
-  <div class="wrap">
-    <a href="#home" class="site-nav__brand">Shawon.</a>
-    <ul class="site-nav__links">
-      <li><a href="#home">Home</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#education">Education</a></li>
-      <li><a href="#teaching">Teaching</a></li>
-      <li><button type="button" class="theme-toggle" data-theme-toggle>Dark</button></li>
-      <li><a href="#contact" class="btn btn--accent btn--sm">Contact</a></li>
-    </ul>
-  </div>
-</nav>
+<div class="layout">
 
-
-<div class="wrap">
-
-<section id="home" class="hero" style="border-top: none;">
-  <svg class="hero__orbit" viewBox="0 0 260 260" aria-hidden="true">
-    <circle class="ring-1" cx="130" cy="130" r="120" fill="none" stroke="var(--blue)" stroke-width="1.5" stroke-dasharray="6 10"/>
-    <circle class="ring-2" cx="130" cy="130" r="82" fill="none" stroke="var(--teal)" stroke-width="1.5" stroke-dasharray="3 9"/>
-    <circle cx="130" cy="10" r="5" fill="var(--blue)"/>
-    <circle cx="212" cy="130" r="4" fill="var(--teal)"/>
+<aside id="home" class="profile">
+  <svg class="profile__orbit" viewBox="0 0 260 260" aria-hidden="true">
+    <circle class="ring-1" cx="130" cy="130" r="120" fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-dasharray="6 10"/>
+    <circle class="ring-2" cx="130" cy="130" r="82" fill="none" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="3 9"/>
   </svg>
-  <span class="badge badge--role">Ph.D. Student · Dept. of CS, GMU</span>
 
-  <div class="hero__grid">
-    <div class="hero__avatar">
-      <img src="{{ base_path }}/images/profile-avatar.jpg" alt="Md Tanvir Rouf Shawon">
-    </div>
-    <div class="hero__body">
-      <h1>Hi, I'm <span class="accent">Md Tanvir Rouf Shawon</span></h1>
-      <p class="hero__role typing" data-typing='["3rd-year Ph.D. student in Computer Science","Researcher in healthcare AI and NLP","Building safer conversational AI for mental health"]'>3rd-year Ph.D. student in Computer Science</p>
-      <p class="hero__tagline">Ph.D. student researching how to make conversational AI safer for mental-health care, with work in natural language processing, explainable AI, and computer vision.</p>
+  <div class="profile__avatar">
+    <img src="{{ base_path }}/images/profile-avatar.jpg" alt="Md Tanvir Rouf Shawon">
+  </div>
+  <p class="profile__eyebrow">Ph.D. Student · Computer Science · GMU</p>
+  <h1 class="profile__name">Md Tanvir Rouf <span class="accent">Shawon</span></h1>
+  <p class="profile__role typing" data-typing='["3rd-year Ph.D. student in Computer Science","Researcher in healthcare AI and NLP","Building safer conversational AI for mental health"]'>3rd-year Ph.D. student in Computer Science</p>
+  <p class="profile__tagline">Researching how to make conversational AI safer for mental-health care, with work in natural language processing, explainable AI, and computer vision.</p>
 
-      <div class="hero__cta">
-        <a href="mailto:mshawon@gmu.edu" class="btn btn--accent">✉ Get in Touch</a>
-        <a href="{{ base_path }}/files/Shawon__CV_.pdf" class="btn">⭳ Download CV</a>
-      </div>
-
-      <div class="hero__social">
-        <a href="https://github.com/shawon-tanvir">GitHub</a>
-        <a href="https://www.linkedin.com/in/shawon-tanvir/">LinkedIn</a>
-        <a href="https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao">Scholar</a>
-        <a href="https://www.researchgate.net/profile/Md-Shawon-6">ResearchGate</a>
-      </div>
-    </div>
+  <div class="profile__cta">
+    <a href="mailto:mshawon@gmu.edu" class="btn btn--accent">✉ Get in Touch</a>
+    <a href="{{ base_path }}/files/Shawon__CV_.pdf" class="btn">⭳ CV</a>
   </div>
 
-  <div class="stats">
+  <nav class="profile__nav" aria-label="Sections">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#education">Education</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="profile__social">
+    <a href="https://github.com/shawon-tanvir">GitHub</a>
+    <a href="https://www.linkedin.com/in/shawon-tanvir/">LinkedIn</a>
+    <a href="https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao">Scholar</a>
+    <a href="https://www.researchgate.net/profile/Md-Shawon-6">ResearchGate</a>
+  </div>
+
+  <div class="profile__stats">
     <div class="stat">
       <div class="stat__num" data-count="20" data-suffix="+">20+</div>
       <div class="stat__label">Publications</div>
@@ -83,7 +70,9 @@ redirect_from:
       <div class="stat__label">Semesters Taught</div>
     </div>
   </div>
-</section>
+</aside>
+
+<main class="content">
 
 <section id="about" class="reveal">
   <span class="kicker">Get to know me</span>
@@ -345,7 +334,7 @@ redirect_from:
   <span class="kicker">Let's Connect</span>
   <h2>Get in Touch</h2>
   <p>The best way to reach me is by email. I'm always happy to talk about health informatics, NLP, and evaluating AI systems for safety-critical settings.</p>
-  <div class="hero__social" style="margin-top: 10px;">
+  <div class="profile__social" style="margin-top: 10px;">
     <a href="mailto:mshawon@gmu.edu">✉ mshawon@gmu.edu</a>
     <a href="https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao">Scholar</a>
     <a href="https://github.com/shawon-tanvir">GitHub</a>
@@ -354,6 +343,7 @@ redirect_from:
   </div>
 </section>
 
+</main>
 </div>
 
 <footer class="site-footer">
