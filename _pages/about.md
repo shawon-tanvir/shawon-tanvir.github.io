@@ -24,6 +24,7 @@ redirect_from:
       <li><a href="#publications">Publications</a></li>
       <li><a href="#education">Education</a></li>
       <li><a href="#teaching">Teaching</a></li>
+      <li><button type="button" class="theme-toggle" data-theme-toggle>Dark</button></li>
       <li><a href="#contact" class="btn btn--accent btn--sm">Contact</a></li>
     </ul>
   </div>
@@ -32,6 +33,12 @@ redirect_from:
 <div class="wrap">
 
 <section id="home" class="hero" style="border-top: none;">
+  <svg class="hero__orbit" viewBox="0 0 260 260" aria-hidden="true">
+    <circle class="ring-1" cx="130" cy="130" r="120" fill="none" stroke="var(--blue)" stroke-width="1.5" stroke-dasharray="6 10"/>
+    <circle class="ring-2" cx="130" cy="130" r="82" fill="none" stroke="var(--teal)" stroke-width="1.5" stroke-dasharray="3 9"/>
+    <circle cx="130" cy="10" r="5" fill="var(--blue)"/>
+    <circle cx="212" cy="130" r="4" fill="var(--teal)"/>
+  </svg>
   <span class="badge badge--role">Ph.D. Student · Dept. of CS, GMU</span>
 
   <div class="hero__grid">
@@ -40,6 +47,7 @@ redirect_from:
     </div>
     <div class="hero__body">
       <h1>Hi, I'm <span class="accent">Md Tanvir Rouf Shawon</span></h1>
+      <p class="hero__role typing" data-typing='["3rd-year Ph.D. student in Computer Science","Researcher in healthcare AI and NLP","Building safer conversational AI for mental health"]'>3rd-year Ph.D. student in Computer Science</p>
       <p class="hero__tagline">Ph.D. student researching how to make conversational AI safer for mental-health care, with work in natural language processing, explainable AI, and computer vision.</p>
 
       <div class="hero__cta">
@@ -76,7 +84,7 @@ redirect_from:
   </div>
 </section>
 
-<section id="about">
+<section id="about" class="reveal">
   <span class="kicker">Get to know me</span>
   <h2>About Me</h2>
   <p>I am a 3rd-year Ph.D. student in Computer Science at <a href="http://gmu.edu/">George Mason University</a>, advised by <a href="https://www.gmu.edu/profiles/klybarge">Dr. Kevin Lybarger</a>. My research centers on health informatics, building and evaluating conversational AI systems for safety in mental-health care, particularly how these systems behave around vulnerable patients before they ever reach a real clinical setting.</p>
@@ -121,7 +129,7 @@ redirect_from:
   </details>
 </section>
 
-<section id="research">
+<section id="research" class="reveal">
   <span class="kicker">Beyond the Classroom</span>
   <h2>Research Experience</h2>
 
@@ -181,7 +189,7 @@ redirect_from:
   </ul>
 </section>
 
-<section id="publications">
+<section id="publications" class="reveal">
   <span class="kicker">Research Output</span>
   <h2>Publications</h2>
   <p class="lede">Full list, synced live from Google Scholar (20+ publications, 250+ citations, h-index 11).</p>
@@ -191,7 +199,7 @@ redirect_from:
   <p><a href="https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao">View full profile on Google Scholar →</a></p>
 </section>
 
-<section id="education">
+<section id="education" class="reveal">
   <span class="kicker">Academic Record</span>
   <h2>Education</h2>
 
@@ -232,7 +240,7 @@ redirect_from:
   </div>
 </section>
 
-<section id="teaching">
+<section id="teaching" class="reveal">
   <span class="kicker">In the Classroom</span>
   <h2>Teaching Experience</h2>
 
@@ -332,7 +340,7 @@ redirect_from:
   </details>
 </section>
 
-<section id="contact">
+<section id="contact" class="reveal">
   <span class="kicker">Let's Connect</span>
   <h2>Get in Touch</h2>
   <p>The best way to reach me is by email. I'm always happy to talk about health informatics, NLP, and evaluating AI systems for safety-critical settings.</p>

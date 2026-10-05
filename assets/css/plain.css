@@ -17,6 +17,7 @@
   --amber-text: #92400e;
   --gray-bg: #f3f4f6;
   --gray-text: #6b7280;
+  --nav-bg: rgba(255, 255, 255, 0.92);
   --max-width: 900px;
   --radius: 14px;
 }
@@ -61,7 +62,7 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(255, 255, 255, 0.92);
+  background: var(--nav-bg);
   backdrop-filter: saturate(180%) blur(6px);
   border-bottom: 1px solid var(--border);
 }
@@ -155,6 +156,8 @@ a:hover {
    ========================================================================== */
 
 .hero {
+  position: relative;
+  overflow: hidden;
   padding: 56px 0 40px;
 }
 
@@ -485,5 +488,141 @@ details p {
 
   section {
     padding: 30px 0;
+  }
+}
+
+/* Dark theme
+   ========================================================================== */
+
+:root[data-theme="dark"] {
+  --bg: #0b0f19;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --border: #1f2937;
+  --card: #111827;
+  --soft: #0f172a;
+  --nav-bg: rgba(11, 15, 25, 0.9);
+  --indigo-bg: #2e1065;
+  --indigo-text: #c4b5fd;
+  --green-bg: #052e16;
+  --green-text: #86efac;
+  --amber-bg: #422006;
+  --amber-text: #fcd34d;
+  --gray-bg: #1f2937;
+  --gray-text: #9ca3af;
+}
+
+:root[data-theme="dark"] .box--highlight {
+  box-shadow: 0 4px 18px rgba(124, 58, 237, 0.25);
+}
+
+/* Theme toggle
+   ========================================================================== */
+
+.theme-toggle {
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--text);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  border-color: var(--blue);
+  color: var(--blue);
+}
+
+/* Typing text
+   ========================================================================== */
+
+.typing::after {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  margin-left: 4px;
+  vertical-align: text-bottom;
+  background: var(--blue);
+  animation: blink 1s steps(1) infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+/* Scroll reveal
+   ========================================================================== */
+
+.reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .typing::after {
+    animation: none;
+  }
+}
+
+/* Active nav link
+   ========================================================================== */
+
+.site-nav__links a.is-active {
+  color: var(--blue);
+  font-weight: 600;
+}
+
+/* Animated hero graphic
+   ========================================================================== */
+
+.hero__orbit {
+  position: absolute;
+  top: -20px;
+  right: -40px;
+  width: 260px;
+  height: 260px;
+  opacity: 0.35;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.hero__orbit circle {
+  transform-origin: 130px 130px;
+  animation: spin 18s linear infinite;
+}
+
+.hero__orbit .ring-2 {
+  animation-duration: 28s;
+  animation-direction: reverse;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero__orbit circle {
+    animation: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .hero__orbit {
+    display: none;
   }
 }
