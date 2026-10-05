@@ -159,6 +159,11 @@ a:hover {
   z-index: 1;
 }
 
+.profile > .profile__orbit {
+  position: absolute;
+  z-index: 0;
+}
+
 .profile__avatar {
   width: 120px;
   height: 120px;
@@ -665,14 +670,40 @@ details p {
 }
 
 @media (min-width: 961px) and (max-height: 860px) {
-  .profile__tagline,
-  .profile__stats {
+  .profile {
+    padding: 22px 22px;
+  }
+
+  .profile__tagline {
     display: none;
   }
 
   .profile__avatar {
-    width: 96px;
-    height: 96px;
+    width: 84px;
+    height: 84px;
+    margin-bottom: 12px;
+  }
+
+  .profile__cta,
+  .profile__social {
     margin-bottom: 14px;
+  }
+
+  .profile__stats {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .stat {
+    padding: 10px 4px;
+  }
+
+  .stat__num {
+    font-size: 1.1em;
+  }
+
+  .stat__label {
+    font-size: 10px;
+    line-height: 1.2;
   }
 }
