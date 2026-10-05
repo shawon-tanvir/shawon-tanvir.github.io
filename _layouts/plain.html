@@ -20,6 +20,7 @@
   </head>
 
   <body>
+    <div class="scroll-progress" aria-hidden="true"></div>
     {{ content }}
     {% include analytics.html %}
     <script src="{{ base_path }}/assets/js/site.js?v={{ site.time | date: '%s' }}" defer></script>

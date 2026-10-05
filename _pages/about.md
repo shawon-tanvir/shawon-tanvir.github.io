@@ -30,6 +30,7 @@ redirect_from:
   </div>
 </nav>
 
+
 <div class="wrap">
 
 <section id="home" class="hero" style="border-top: none;">
@@ -66,19 +67,19 @@ redirect_from:
 
   <div class="stats">
     <div class="stat">
-      <div class="stat__num">20+</div>
+      <div class="stat__num" data-count="20" data-suffix="+">20+</div>
       <div class="stat__label">Publications</div>
     </div>
     <div class="stat">
-      <div class="stat__num">250+</div>
+      <div class="stat__num" data-count="250" data-suffix="+">250+</div>
       <div class="stat__label">Citations</div>
     </div>
     <div class="stat">
-      <div class="stat__num">3.93</div>
+      <div class="stat__num" data-count="3.93" data-decimals="2">3.93</div>
       <div class="stat__label">B.Sc. CGPA / 4.00</div>
     </div>
     <div class="stat">
-      <div class="stat__num">6+</div>
+      <div class="stat__num" data-count="6" data-suffix="+">6+</div>
       <div class="stat__label">Semesters Taught</div>
     </div>
   </div>

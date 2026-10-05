@@ -495,21 +495,57 @@ details p {
    ========================================================================== */
 
 :root[data-theme="dark"] {
-  --bg: #0b0f19;
-  --text: #e5e7eb;
-  --muted: #9ca3af;
-  --border: #1f2937;
-  --card: #111827;
-  --soft: #0f172a;
-  --nav-bg: rgba(11, 15, 25, 0.9);
+  --bg: #0a0a0a;
+  --text: #f5f5f5;
+  --muted: #a3a3a3;
+  --border: #262626;
+  --card: #141414;
+  --soft: #111111;
+  --nav-bg: rgba(10, 10, 10, 0.9);
   --indigo-bg: #2e1065;
   --indigo-text: #c4b5fd;
   --green-bg: #052e16;
   --green-text: #86efac;
   --amber-bg: #422006;
   --amber-text: #fcd34d;
-  --gray-bg: #1f2937;
-  --gray-text: #9ca3af;
+  --gray-bg: #262626;
+  --gray-text: #a3a3a3;
+}
+
+:root[data-theme="dark"] body {
+  background-image: none;
+}
+
+.scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  z-index: 50;
+  background: linear-gradient(90deg, var(--blue), var(--teal));
+  transform-origin: 0 50%;
+  transform: scaleX(0);
+}
+
+.card,
+.box {
+  transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.6s ease;
+}
+
+.card:hover,
+.box:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+
+.stat {
+  transition: transform 0.25s ease, border-color 0.25s ease, opacity 0.6s ease;
+}
+
+.stat:hover {
+  transform: translateY(-3px);
+  border-color: var(--blue);
 }
 
 :root[data-theme="dark"] .box--highlight {
