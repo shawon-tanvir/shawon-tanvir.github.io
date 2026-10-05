@@ -186,7 +186,7 @@ redirect_from:
   <h2>Publications</h2>
   <p class="lede">Full list, synced live from Google Scholar (20+ publications, 250+ citations, h-index 11).</p>
   <div class="card">
-    <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FgRNYBhrtHQBMN8RvM&noBootstrap=1&jsonp=1"></script>
+    <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FtTSrw4GdXvb74wMg9&noBootstrap=1&jsonp=1"></script>
   </div>
   <p><a href="https://scholar.google.com/citations?user=jCObHL4AAAAJ&hl=en&oi=ao">View full profile on Google Scholar →</a></p>
 </section>
