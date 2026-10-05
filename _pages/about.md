@@ -14,6 +14,18 @@ redirect_from:
   - /resume
 ---
 
+<header class="topbar">
+  <nav class="topbar__nav" aria-label="Sections">
+    <a href="#home" class="topbar__brand">Shawon.</a>
+    <a href="#about">About</a>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#education">Education</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
 <div class="layout">
 
 <aside id="home" class="profile">
@@ -34,16 +46,6 @@ redirect_from:
     <a href="mailto:mshawon@gmu.edu" class="btn btn--accent">✉ Get in Touch</a>
     <a href="{{ base_path }}/files/Shawon__CV_.pdf" class="btn">⭳ CV</a>
   </div>
-
-  <nav class="profile__nav" aria-label="Sections">
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#research">Research</a>
-    <a href="#publications">Publications</a>
-    <a href="#education">Education</a>
-    <a href="#teaching">Teaching</a>
-    <a href="#contact">Contact</a>
-  </nav>
 
   <div class="profile__social">
     <a href="https://github.com/shawon-tanvir">GitHub</a>

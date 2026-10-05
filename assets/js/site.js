@@ -82,7 +82,7 @@
     revealEls.forEach(function (el) { el.classList.add("is-visible"); });
   }
 
-  var navLinks = document.querySelectorAll(".profile__nav a[href^='#']");
+  var navLinks = document.querySelectorAll(".topbar__nav a[href^='#']");
   var sections = [];
   navLinks.forEach(function (a) {
     var s = document.querySelector(a.getAttribute("href"));
