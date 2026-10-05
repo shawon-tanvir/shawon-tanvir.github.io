@@ -40,7 +40,6 @@ redirect_from:
   <p class="profile__eyebrow">Ph.D. Student · Computer Science · GMU</p>
   <h1 class="profile__name">Md Tanvir Rouf <span class="accent">Shawon</span></h1>
   <p class="profile__role typing" data-typing='["3rd-year Ph.D. student in Computer Science","Researcher in healthcare AI and NLP","Building safer conversational AI for mental health"]'>3rd-year Ph.D. student in Computer Science</p>
-  <p class="profile__tagline">Researching how to make conversational AI safer for mental-health care, with work in natural language processing, explainable AI, and computer vision.</p>
 
   <div class="profile__cta">
     <a href="mailto:mshawon@gmu.edu" class="btn btn--accent">✉ Get in Touch</a>
