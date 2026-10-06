@@ -19,6 +19,7 @@ redirect_from:
     <a href="#home" class="topbar__brand">Shawon.</a>
     <a href="#about">About</a>
     <a href="#research">Research</a>
+    <a href="#lab">Lab</a>
     <a href="#publications">Publications</a>
     <a href="#education">Education</a>
     <a href="#teaching">Teaching</a>
@@ -135,7 +136,6 @@ redirect_from:
     <p>Evaluating conversational AI for depression management: exploring how large language models can improve antidepressant recommendations and patient outcomes. The project develops patient simulations and risk-assessment methods to test whether conversational agents give trustworthy guidance on antidepressant selection.</p>
     <div class="card__links">
       <a href="https://rapidimprovement.ai/">Project website ↗</a>
-      <a href="https://www.lybargerlanguagelab.org/">Lybarger Language Lab ↗</a>
       <a href="https://www.pcori.org/">PCORI ↗</a>
     </div>
   </div>
@@ -184,6 +184,19 @@ redirect_from:
     <li><a href="https://www.worldscientific.com/worldscinet/IJIG">International Journal of Image and Graphics</a></li>
     <li><a href="https://ijict.iaescore.com/index.php/IJICT">International Journal of Informatics and Communication Technology (IJ-ICT)</a></li>
   </ul>
+</section>
+
+<section id="lab" class="reveal">
+  <span class="kicker">Home base</span>
+  <h2>Lybarger Language Lab</h2>
+  <div class="box box--highlight">
+    <span class="badge badge--role">Research lab · George Mason University</span>
+    <h3>Lybarger Language Lab</h3>
+    <p class="meta">Led by Dr. Kevin Lybarger, my advisor. I work here as a Graduate Research Assistant and Graduate Teaching Assistant.</p>
+    <div class="card__links">
+      <a href="https://www.lybargerlanguagelab.org/">Visit the lab ↗</a>
+    </div>
+  </div>
 </section>
 
 <section id="publications" class="reveal">
