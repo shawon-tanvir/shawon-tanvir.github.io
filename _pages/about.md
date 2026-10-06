@@ -85,8 +85,8 @@ redirect_from:
   <p>Before the Ph.D., I was a Lecturer at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, where I graduated first in my class. I taught most of the undergraduate CS track, from programming and assembly to algorithms and soft computing, and trained government teachers in Python and AI. Teaching taught me how to explain hard ideas, and that's still how I work.</p>
 
   <ul class="about__facts">
-    <li><strong>Now:</strong> Graduate Research Assistant on a PCORI-funded depression-management AI project.</li>
-    <li><strong>Currently:</strong> working as a Graduate Teaching Assistant at GMU, and also patient simulations for suicide-risk conversations.</li>
+    <li><strong>Now:</strong> Graduate Teaching Assistant at George Mason University.</li>
+    <li><strong>Currently:</strong> building patient simulations to test how conversational AI handles suicide-risk conversations.</li>
     <li><strong>Outside research:</strong> reviewer for Frontiers in AI and two other journals.</li>
   </ul>
 
