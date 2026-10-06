@@ -127,7 +127,7 @@ a:hover {
   top: 120px;
   height: calc(100vh - 152px);
   overflow: hidden;
-  overflow: hidden;
+  padding: 28px 26px;
   display: flex;
   flex-direction: column;
   justify-content: safe center;
