@@ -86,7 +86,7 @@ redirect_from:
 
   <ul class="about__facts">
     <li><strong>Now:</strong> Graduate Research Assistant on a PCORI-funded depression-management AI project.</li>
-    <li><strong>Also:</strong> patient simulations for suicide-risk conversations, and a Graduate Teaching Assistant at GMU.</li>
+    <li><strong>Currently:</strong> working as a Graduate Teaching Assistant at GMU, and also patient simulations for suicide-risk conversations.</li>
     <li><strong>Outside research:</strong> reviewer for Frontiers in AI and two other journals.</li>
   </ul>
 
@@ -255,6 +255,7 @@ redirect_from:
   <h2>Teaching Experience</h2>
 
   <div class="card">
+    <span class="badge badge--role">Current</span>
     <h3>Graduate Teaching Assistant</h3>
     <p class="meta">Department of Computer Science, George Mason University · Aug 2025 – Present</p>
     <p>Courses: Database Concepts, Introduction to Low-Level Programming.</p>
