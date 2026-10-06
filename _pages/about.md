@@ -279,75 +279,76 @@ redirect_from:
 
   <div class="card">
     <h3>Courses taught, by semester</h3>
+    <p class="meta">Tap a course to see its description.</p>
 
     <p class="semester">Spring 2020</p>
-    <ul>
-      <li>Assembly Language Programming</li>
-    </ul>
+    <details>
+      <summary>Assembly Language Programming</summary>
+      <p>Assembly programming basics, instruction formats, interrupts, procedures, and hardware interfacing.</p>
+    </details>
 
     <p class="semester">Fall 2020</p>
-    <ul>
-      <li>Algorithms Lab</li>
-      <li>Pattern Recognition Lab</li>
-    </ul>
+    <details>
+      <summary>Algorithms Lab</summary>
+      <p>Algorithmic complexity analysis and design techniques: divide and conquer, greedy methods, dynamic programming, backtracking, and branch and bound.</p>
+    </details>
+    <details>
+      <summary>Pattern Recognition Lab</summary>
+      <p>Object classification and machine learning: regression, Bayesian classifiers, neural networks, decision trees, SVMs, and clustering.</p>
+    </details>
 
     <p class="semester">Spring 2021</p>
-    <ul>
-      <li>Computer Programming</li>
-      <li>Computer Programming Lab</li>
-      <li>Pattern Recognition Lab</li>
-    </ul>
+    <details>
+      <summary>Computer Programming</summary>
+      <p>Introductory programming: variables, control flow, functions, recursion, arrays, pointers, structures, and basic data structures.</p>
+    </details>
+    <details>
+      <summary>Computer Programming Lab</summary>
+      <p>Laboratory works based on the Computer Programming course.</p>
+    </details>
+    <details>
+      <summary>Pattern Recognition Lab</summary>
+      <p>Object classification and machine learning: regression, Bayesian classifiers, neural networks, decision trees, SVMs, and clustering.</p>
+    </details>
 
     <p class="semester">Fall 2021</p>
-    <ul>
-      <li>Object-Oriented Programming Lab</li>
-      <li>Algorithms Lab</li>
-      <li>Soft Computing <span class="badge">Theory</span></li>
-    </ul>
+    <details>
+      <summary>Object-Oriented Programming Lab</summary>
+      <p>Laboratory work on OOP principles: classes and objects, encapsulation, inheritance, polymorphism, and class hierarchy design.</p>
+    </details>
+    <details>
+      <summary>Algorithms Lab</summary>
+      <p>Algorithmic complexity analysis and design techniques: divide and conquer, greedy methods, dynamic programming, backtracking, and branch and bound.</p>
+    </details>
+    <details>
+      <summary>Soft Computing <span class="badge">Theory</span></summary>
+      <p>Fuzzy sets and logic, artificial neural networks, probabilistic reasoning, and genetic algorithms.</p>
+    </details>
 
     <p class="semester">Spring 2022</p>
-    <ul>
-      <li>Object-Oriented Programming Lab</li>
-      <li>Soft Computing <span class="badge">Theory</span></li>
-      <li>Soft Computing Lab</li>
-    </ul>
+    <details>
+      <summary>Object-Oriented Programming Lab</summary>
+      <p>Laboratory work on OOP principles: classes and objects, encapsulation, inheritance, polymorphism, and class hierarchy design.</p>
+    </details>
+    <details>
+      <summary>Soft Computing <span class="badge">Theory</span></summary>
+      <p>Fuzzy sets and logic, artificial neural networks, probabilistic reasoning, and genetic algorithms.</p>
+    </details>
+    <details>
+      <summary>Soft Computing Lab</summary>
+      <p>Laboratory works based on the Soft Computing course.</p>
+    </details>
 
     <p class="semester">Fall 2022</p>
-    <ul>
-      <li>Introduction to Computer System</li>
-      <li>Soft Computing <span class="badge">Theory</span></li>
-    </ul>
+    <details>
+      <summary>Introduction to Computer System</summary>
+      <p>Basic principles of analog and digital computation, number systems, computer architecture and organization, operating systems fundamentals, and computer security.</p>
+    </details>
+    <details>
+      <summary>Soft Computing <span class="badge">Theory</span></summary>
+      <p>Fuzzy sets and logic, artificial neural networks, probabilistic reasoning, and genetic algorithms.</p>
+    </details>
   </div>
-
-  <p><strong>Course descriptions</strong></p>
-  <details>
-    <summary>Introduction to Computer System</summary>
-    <p>Basic principles of analog and digital computation, number systems, computer architecture and organization, operating systems fundamentals, and computer security.</p>
-  </details>
-  <details>
-    <summary>Object-Oriented Programming Lab</summary>
-    <p>Laboratory work on OOP principles: classes and objects, encapsulation, inheritance, polymorphism, and class hierarchy design.</p>
-  </details>
-  <details>
-    <summary>Computer Programming &amp; Lab</summary>
-    <p>Introductory programming: variables, control flow, functions, recursion, arrays, pointers, structures, and basic data structures.</p>
-  </details>
-  <details>
-    <summary>Algorithms Lab</summary>
-    <p>Algorithmic complexity analysis and design techniques: divide and conquer, greedy methods, dynamic programming, backtracking, and branch and bound.</p>
-  </details>
-  <details>
-    <summary>Pattern Recognition Lab</summary>
-    <p>Object classification and machine learning: regression, Bayesian classifiers, neural networks, decision trees, SVMs, and clustering.</p>
-  </details>
-  <details>
-    <summary>Soft Computing &amp; Lab</summary>
-    <p>Fuzzy sets and logic, artificial neural networks, probabilistic reasoning, and genetic algorithms.</p>
-  </details>
-  <details>
-    <summary>Assembly Language Programming</summary>
-    <p>Assembly programming basics, instruction formats, interrupts, procedures, and hardware interfacing.</p>
-  </details>
 </section>
 
 <section id="contact" class="reveal">
