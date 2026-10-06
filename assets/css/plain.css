@@ -736,86 +736,19 @@ details p {
   color: #d4d4d4;
 }
 
-/* Animated background
+
+/* Particle network background
    ========================================================================== */
+
+.bg-network {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
 
 body {
   position: relative;
-  overflow-x: hidden;
-}
-
-.bg-aurora {
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  overflow: hidden;
-  pointer-events: none;
-}
-
-.bg-aurora::before,
-.bg-aurora::after,
-.bg-aurora span {
-  content: "";
-  position: absolute;
-  width: 46vmax;
-  height: 46vmax;
-  border-radius: 50%;
-  filter: blur(80px);
-  opacity: 0.22;
-  will-change: transform;
-}
-
-.bg-aurora::before {
-  top: -18vmax;
-  left: -12vmax;
-  background: var(--accent-strong);
-  animation: drift-a 26s ease-in-out infinite alternate;
-}
-
-.bg-aurora::after {
-  bottom: -20vmax;
-  right: -14vmax;
-  background: var(--teal);
-  animation: drift-b 32s ease-in-out infinite alternate;
-}
-
-.bg-aurora span {
-  top: 35%;
-  left: 45%;
-  background: var(--amber);
-  opacity: 0.12;
-  animation: drift-c 38s ease-in-out infinite alternate;
-}
-
-.bg-grid {
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  pointer-events: none;
-  background-image:
-    linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
-  background-size: 56px 56px;
-  mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 75%);
-  -webkit-mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 75%);
-}
-
-@keyframes drift-a {
-  to { transform: translate(18vw, 12vh) scale(1.15); }
-}
-
-@keyframes drift-b {
-  to { transform: translate(-16vw, -10vh) scale(0.9); }
-}
-
-@keyframes drift-c {
-  to { transform: translate(-22vw, 14vh) scale(1.2); }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .bg-aurora::before,
-  .bg-aurora::after,
-  .bg-aurora span {
-    animation: none;
-  }
 }

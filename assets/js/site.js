@@ -16,6 +16,82 @@
     tick();
   }
 
+
+  var canvas = document.querySelector(".bg-network");
+  if (canvas && canvas.getContext && !reduceMotion) {
+    var ctx = canvas.getContext("2d");
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    var mouse = { x: -9999, y: -9999 };
+    var nodes = [];
+    var colors = ["167,139,250", "45,212,191", "245,158,11"];
+    var resize = function () {
+      canvas.width = window.innerWidth * dpr;
+      canvas.height = window.innerHeight * dpr;
+      canvas.style.width = window.innerWidth + "px";
+      canvas.style.height = window.innerHeight + "px";
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      var count = Math.min(90, Math.floor(window.innerWidth * window.innerHeight / 16000));
+      nodes = [];
+      for (var i = 0; i < count; i++) {
+        nodes.push({
+          x: Math.random() * window.innerWidth,
+          y: Math.random() * window.innerHeight,
+          vx: (Math.random() - 0.5) * 0.35,
+          vy: (Math.random() - 0.5) * 0.35,
+          r: 1 + Math.random() * 1.6,
+          c: colors[i % colors.length]
+        });
+      }
+    };
+    resize();
+    window.addEventListener("resize", resize);
+    window.addEventListener("mousemove", function (e) { mouse.x = e.clientX; mouse.y = e.clientY; }, { passive: true });
+    window.addEventListener("mouseleave", function () { mouse.x = -9999; mouse.y = -9999; });
+    var linkDist = 150;
+    var frame = function () {
+      var w = window.innerWidth, h = window.innerHeight;
+      ctx.clearRect(0, 0, w, h);
+      for (var i = 0; i < nodes.length; i++) {
+        var n = nodes[i];
+        var dx = n.x - mouse.x, dy = n.y - mouse.y;
+        var d2 = dx * dx + dy * dy;
+        if (d2 < 22500) {
+          var f = (22500 - d2) / 22500 * 0.6;
+          n.vx += dx * f * 0.002;
+          n.vy += dy * f * 0.002;
+        }
+        n.vx *= 0.99; n.vy *= 0.99;
+        n.x += n.vx; n.y += n.vy;
+        if (n.x < 0 || n.x > w) n.vx *= -1;
+        if (n.y < 0 || n.y > h) n.vy *= -1;
+      }
+      for (var a = 0; a < nodes.length; a++) {
+        for (var b = a + 1; b < nodes.length; b++) {
+          var p = nodes[a], q = nodes[b];
+          var ddx = p.x - q.x, ddy = p.y - q.y;
+          var dist = Math.sqrt(ddx * ddx + ddy * ddy);
+          if (dist < linkDist) {
+            ctx.strokeStyle = "rgba(167,139,250," + (0.22 * (1 - dist / linkDist)).toFixed(3) + ")";
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            ctx.moveTo(p.x, p.y);
+            ctx.lineTo(q.x, q.y);
+            ctx.stroke();
+          }
+        }
+      }
+      for (var k = 0; k < nodes.length; k++) {
+        var m = nodes[k];
+        ctx.fillStyle = "rgba(" + m.c + ",0.75)";
+        ctx.beginPath();
+        ctx.arc(m.x, m.y, m.r, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      requestAnimationFrame(frame);
+    };
+    requestAnimationFrame(frame);
+  }
+
   var bar = document.querySelector(".scroll-progress");
   if (bar) {
     var updateProgress = function () {
