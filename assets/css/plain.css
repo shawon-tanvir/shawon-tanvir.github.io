@@ -124,8 +124,8 @@ a:hover {
 
 .profile {
   position: sticky;
-  top: 84px;
-  height: calc(100vh - 116px);
+  top: 120px;
+  height: calc(100vh - 152px);
   overflow: hidden;
   padding: 28px 26px;
   background: var(--surface);
