@@ -78,12 +78,16 @@ redirect_from:
 <section id="about" class="reveal">
   <span class="kicker">Get to know me</span>
   <h2>About Me</h2>
-  <p>I am a 3rd-year Ph.D. student in Computer Science at <a href="http://gmu.edu/">George Mason University</a>, advised by <a href="https://www.lybargerlanguagelab.org/">Dr. Kevin Lybarger</a>. My research centers on health informatics, building and evaluating conversational AI systems for safety in mental-health care, particularly how these systems behave around vulnerable patients before they ever reach a real clinical setting.</p>
-  <p>My path here started in natural language processing. As Co-Principal Investigator on a CASR-funded project at AUST, I helped build one of the early benchmark datasets for detecting fake reviews in Bengali, alongside published work spanning NLP and computer vision. That line of research is what pulled me toward safety-critical applications of AI, which is why my Ph.D. work now focuses on patient-simulation frameworks for evaluating conversational agents used in mental-health care.</p>
-  <p>I was formerly a Lecturer at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh, in the <a href="https://www.aust.edu/cse">Department of CSE</a>, where I also completed my B.Sc. in Computer Science and Engineering, graduating first in my class. Between 2021 and 2024 I taught across much of the undergraduate CS curriculum there, from introductory and assembly-language programming to algorithms, pattern recognition, and soft computing, and later trained government-sponsored cohorts of teachers in Python and AI as part of a national digital-literacy initiative in Bangladesh.</p>
-  <p>Teaching taught me as much as it let me teach: explaining complex concepts and engaging with students' questions continually challenged me to deepen my own understanding, which is part of what drew me toward a Ph.D.</p>
+  <p class="about__lead">I build AI that has to be trusted before it talks to someone in pain.</p>
+  <p>I'm a 3rd-year Ph.D. student in Computer Science at <a href="http://gmu.edu/">George Mason University</a>, advised by <a href="https://www.lybargerlanguagelab.org/">Dr. Kevin Lybarger</a>. I study how conversational AI behaves around vulnerable patients in mental-health care, and I want to know it's safe before a real clinic ever tries it.</p>
+  <p>It started in NLP. As Co-PI on a CASR-funded project at AUST, I helped build an early benchmark for detecting fake reviews in Bengali, and I've published across NLP and computer vision since. That pulled me toward safety-critical AI.</p>
+  <p>Before the Ph.D., I was a Lecturer at <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, where I graduated first in my class. I taught most of the undergraduate CS track, from programming and assembly to algorithms and soft computing, and trained government teachers in Python and AI. Teaching taught me how to explain hard ideas, and that's still how I work.</p>
 
-  <p><strong>Currently working on:</strong> a PCORI-funded project developing an advanced AI system for depression management, as a Graduate Research Assistant under PIs Dr. Farrokh Alemi and Dr. Kevin Lybarger, alongside a related patient-simulation framework for evaluating conversational agents in mental-health care for suicidal patients. See the <a href="#research">Research</a> section below for details.</p>
+  <ul class="about__facts">
+    <li><strong>Now:</strong> Graduate Research Assistant on a PCORI-funded depression-management AI project.</li>
+    <li><strong>Also:</strong> patient simulations for suicide-risk conversations, and a Graduate Teaching Assistant at GMU.</li>
+    <li><strong>Outside research:</strong> reviewer for Frontiers in AI and two other journals.</li>
+  </ul>
 
   <p><strong>Research Interests</strong></p>
   <div>

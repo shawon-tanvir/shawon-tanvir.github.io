@@ -707,3 +707,28 @@ details p {
     line-height: 1.2;
   }
 }
+
+.about__lead {
+  font-size: 1.35em;
+  line-height: 1.45;
+  font-weight: 600;
+  color: var(--text) !important;
+}
+
+.about__facts {
+  list-style: none;
+  padding: 0;
+  margin: 8px 0 24px;
+  display: grid;
+  gap: 10px;
+}
+
+.about__facts li {
+  padding: 12px 16px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-strong);
+  border-radius: 10px;
+  margin: 0;
+  color: #d4d4d4;
+}
